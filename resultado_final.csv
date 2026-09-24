@@ -1,0 +1,757 @@
+﻿cluster_final,nombre_cluster_final,Pokemon,tipo_1,tipo_2
+0,Roca / Lucha,Aegislash,normal,steel
+0,Roca / Lucha,Aggron,normal,fighting
+0,Roca / Lucha,Amaura,normal,ice
+0,Roca / Lucha,Anorith,normal,rock
+0,Roca / Lucha,Armaldo,normal,rock
+0,Roca / Lucha,Aron,normal,rock
+0,Roca / Lucha,Aurorus,normal,ice
+0,Roca / Lucha,Avalugg,normal,ice
+0,Roca / Lucha,Bastiodon,normal,rock
+0,Roca / Lucha,Bergmite,normal,ice
+0,Roca / Lucha,Boldore,normal,rock
+0,Roca / Lucha,Bonsly,normal,rock
+0,Roca / Lucha,Carracosta,normal,water
+0,Roca / Lucha,Cobalion,normal,fighting
+0,Roca / Lucha,Corsola,normal,rock
+0,Roca / Lucha,Cranidos,normal,rock
+0,Roca / Lucha,Crustle,normal,rock
+0,Roca / Lucha,Donphan,normal,rock
+0,Roca / Lucha,Doublade,normal,steel
+0,Roca / Lucha,Dunsparce,normal,electric
+0,Roca / Lucha,Durant,normal,rock
+0,Roca / Lucha,Dwebble,normal,rock
+0,Roca / Lucha,Excadrill,normal,ground
+0,Roca / Lucha,Forretress,normal,ground
+0,Roca / Lucha,Geodude,normal,rock
+0,Roca / Lucha,Gigalith,normal,rock
+0,Roca / Lucha,Golem,normal,rock
+0,Roca / Lucha,Golett,normal,fighting
+0,Roca / Lucha,Golurk,normal,fighting
+0,Roca / Lucha,Graveler,normal,rock
+0,Roca / Lucha,Honedge,normal,steel
+0,Roca / Lucha,Kabuto,normal,water
+0,Roca / Lucha,Kabutops,normal,water
+0,Roca / Lucha,Lairon,normal,rock
+0,Roca / Lucha,Landorus,normal,rock
+0,Roca / Lucha,Landorus-Therian,normal,rock
+0,Roca / Lucha,Larvitar,normal,dark
+0,Roca / Lucha,Mamoswine,normal,ice
+0,Roca / Lucha,Metagross,normal,psychic
+0,Roca / Lucha,Metang,normal,psychic
+0,Roca / Lucha,Nosepass,normal,rock
+0,Roca / Lucha,Onix,normal,rock
+0,Roca / Lucha,Phanpy,normal,rock
+0,Roca / Lucha,Piloswine,normal,ice
+0,Roca / Lucha,Pineco,normal,ground
+0,Roca / Lucha,Probopass,normal,rock
+0,Roca / Lucha,Pupitar,normal,dark
+0,Roca / Lucha,Rampardos,normal,rock
+0,Roca / Lucha,Regice,normal,fighting
+0,Roca / Lucha,Regigigas,normal,fighting
+0,Roca / Lucha,Regirock,normal,fighting
+0,Roca / Lucha,Registeel,normal,fighting
+0,Roca / Lucha,Rhydon,normal,fighting
+0,Roca / Lucha,Rhyhorn,normal,rock
+0,Roca / Lucha,Rhyperior,normal,fighting
+0,Roca / Lucha,Roggenrola,normal,rock
+0,Roca / Lucha,Shieldon,normal,rock
+0,Roca / Lucha,Shuckle,normal,rock
+0,Roca / Lucha,Steelix,normal,rock
+0,Roca / Lucha,Steelix-Mega,normal,rock
+0,Roca / Lucha,Sudowoodo,normal,fighting
+0,Roca / Lucha,Swinub,normal,ice
+0,Roca / Lucha,Terrakion,normal,fighting
+0,Roca / Lucha,Tirtouga,normal,water
+0,Roca / Lucha,Torkoal,normal,fire
+1,Arceus,Arceus,normal,psychic
+1,Arceus,Arceus-Bug,normal,psychic
+1,Arceus,Arceus-Dark,normal,psychic
+1,Arceus,Arceus-Dragon,normal,psychic
+1,Arceus,Arceus-Electric,normal,psychic
+1,Arceus,Arceus-Fairy,normal,psychic
+1,Arceus,Arceus-Fighting,normal,psychic
+1,Arceus,Arceus-Fire,normal,psychic
+1,Arceus,Arceus-Flying,normal,psychic
+1,Arceus,Arceus-Ghost,normal,psychic
+1,Arceus,Arceus-Grass,normal,psychic
+1,Arceus,Arceus-Ground,normal,psychic
+1,Arceus,Arceus-Ice,normal,psychic
+1,Arceus,Arceus-Poison,normal,psychic
+1,Arceus,Arceus-Psychic,normal,psychic
+1,Arceus,Arceus-Rock,normal,psychic
+1,Arceus,Arceus-Steel,normal,psychic
+1,Arceus,Arceus-Water,normal,psychic
+2,Planta,Bayleef,normal,grass
+2,Planta,Bellossom,normal,grass
+2,Planta,Budew,normal,grass
+2,Planta,Cherrim,normal,grass
+2,Planta,Cherubi,normal,grass
+2,Planta,Chikorita,normal,grass
+2,Planta,Cottonee,normal,grass
+2,Planta,Exeggcute,normal,grass
+2,Planta,Flabebe,normal,grass
+2,Planta,Floette,normal,grass
+2,Planta,Floette-Eternal,normal,grass
+2,Planta,Florges,normal,grass
+2,Planta,Gloom,normal,grass
+2,Planta,Hoppip,normal,grass
+2,Planta,Jumpluff,normal,grass
+2,Planta,Lilligant,normal,grass
+2,Planta,Maractus,normal,grass
+2,Planta,Meganium,normal,grass
+2,Planta,Oddish,normal,grass
+2,Planta,Petilil,normal,grass
+2,Planta,Roselia,normal,grass
+2,Planta,Roserade,normal,grass
+2,Planta,Serperior,normal,grass
+2,Planta,Servine,normal,grass
+2,Planta,Shaymin,normal,grass
+2,Planta,Shaymin-Sky,normal,grass
+2,Planta,Skiploom,normal,grass
+2,Planta,Slurpuff,normal,psychic
+2,Planta,Snivy,normal,grass
+2,Planta,Sunflora,normal,grass
+2,Planta,Sunkern,normal,grass
+2,Planta,Swirlix,normal,psychic
+2,Planta,Vileplume,normal,grass
+2,Planta,Whimsicott,normal,grass
+3,Fantasma / Psíquico,Banette,normal,ghost
+3,Fantasma / Psíquico,Chandelure,normal,fire
+3,Fantasma / Psíquico,Cofagrigus,normal,psychic
+3,Fantasma / Psíquico,Drifblim,normal,psychic
+3,Fantasma / Psíquico,Drifloon,normal,psychic
+3,Fantasma / Psíquico,Dusclops,normal,ghost
+3,Fantasma / Psíquico,Dusknoir,normal,ghost
+3,Fantasma / Psíquico,Duskull,normal,psychic
+3,Fantasma / Psíquico,Froslass,normal,dark
+3,Fantasma / Psíquico,Gastly,normal,ghost
+3,Fantasma / Psíquico,Gengar,normal,ghost
+3,Fantasma / Psíquico,Haunter,normal,ghost
+3,Fantasma / Psíquico,Lampent,normal,fire
+3,Fantasma / Psíquico,Litwick,normal,fire
+3,Fantasma / Psíquico,Misdreavus,normal,psychic
+3,Fantasma / Psíquico,Mismagius,normal,psychic
+3,Fantasma / Psíquico,Ninetales,normal,fire
+3,Fantasma / Psíquico,Phantump,normal,grass
+3,Fantasma / Psíquico,Shuppet,normal,ghost
+3,Fantasma / Psíquico,Spiritomb,normal,dark
+3,Fantasma / Psíquico,Trevenant,normal,grass
+3,Fantasma / Psíquico,Vulpix,normal,fire
+3,Fantasma / Psíquico,Yamask,normal,psychic
+4,Siniestro,Aipom,normal,dark
+4,Siniestro,Ambipom,normal,dark
+4,Siniestro,Darkrai,normal,dark
+4,Siniestro,Golduck,normal,psychic
+4,Siniestro,Houndoom,normal,dark
+4,Siniestro,Houndour,normal,dark
+4,Siniestro,Kangaskhan,normal,fighting
+4,Siniestro,Kecleon,normal,fighting
+4,Siniestro,Psyduck,normal,psychic
+4,Siniestro,Sableye,normal,dark
+4,Siniestro,Sneasel,normal,dark
+4,Siniestro,Weavile,normal,dark
+4,Siniestro,Zangoose,normal,fighting
+5,Volador,Aerodactyl,normal,flying
+5,Volador,Altaria,normal,flying
+5,Volador,Articuno,normal,ice
+5,Volador,Braviary,normal,flying
+5,Volador,Chatot,normal,flying
+5,Volador,Crobat,normal,flying
+5,Volador,Dodrio,normal,flying
+5,Volador,Doduo,normal,flying
+5,Volador,Ducklett,normal,flying
+5,Volador,Farfetch'd,normal,flying
+5,Volador,Fearow,normal,flying
+5,Volador,Fletchinder,normal,fire
+5,Volador,Fletchling,normal,flying
+5,Volador,Golbat,normal,flying
+5,Volador,Ho-Oh,normal,flying
+5,Volador,Honchkrow,normal,dark
+5,Volador,Hoothoot,normal,flying
+5,Volador,Mandibuzz,normal,dark
+5,Volador,Moltres,normal,flying
+5,Volador,Murkrow,normal,dark
+5,Volador,Noctowl,normal,flying
+5,Volador,Noibat,normal,flying
+5,Volador,Noivern,normal,flying
+5,Volador,Pelipper,normal,flying
+5,Volador,Pidgeot,normal,flying
+5,Volador,Pidgeotto,normal,flying
+5,Volador,Pidgey,normal,flying
+5,Volador,Pidove,normal,flying
+5,Volador,Rufflet,normal,flying
+5,Volador,Skarmory,normal,flying
+5,Volador,Spearow,normal,flying
+5,Volador,Staraptor,normal,flying
+5,Volador,Staravia,normal,flying
+5,Volador,Starly,normal,flying
+5,Volador,Swablu,normal,flying
+5,Volador,Swanna,normal,flying
+5,Volador,Swellow,normal,flying
+5,Volador,Taillow,normal,flying
+5,Volador,Talonflame,normal,fire
+5,Volador,Tranquill,normal,flying
+5,Volador,Unfezant,normal,flying
+5,Volador,Vullaby,normal,dark
+5,Volador,Wingull,normal,flying
+5,Volador,Yveltal,normal,flying
+5,Volador,Zapdos,normal,electric
+5,Volador,Zubat,normal,flying
+6,Agua,Alomomola,normal,water
+6,Agua,Azumarill,normal,water
+6,Agua,Azurill,normal,water
+6,Agua,Barboach,normal,water
+6,Agua,Basculin,normal,water
+6,Agua,Blastoise,normal,water
+6,Agua,Buizel,normal,water
+6,Agua,Carvanha,normal,water
+6,Agua,Clamperl,normal,water
+6,Agua,Clauncher,normal,water
+6,Agua,Clawitzer,normal,water
+6,Agua,Cloyster,normal,water
+6,Agua,Corphish,normal,water
+6,Agua,Crawdaunt,normal,water
+6,Agua,Croconaw,normal,water
+6,Agua,Dewott,normal,water
+6,Agua,Dragalge,normal,water
+6,Agua,Empoleon,normal,water
+6,Agua,Feebas,normal,water
+6,Agua,Feraligatr,normal,water
+6,Agua,Finneon,normal,water
+6,Agua,Floatzel,normal,water
+6,Agua,Froakie,normal,water
+6,Agua,Frogadier,normal,water
+6,Agua,Goldeen,normal,water
+6,Agua,Gorebyss,normal,water
+6,Agua,Greninja,normal,water
+6,Agua,Horsea,normal,water
+6,Agua,Huntail,normal,water
+6,Agua,Keldeo,normal,water
+6,Agua,Kingdra,normal,water
+6,Agua,Kingler,normal,water
+6,Agua,Krabby,normal,water
+6,Agua,Kyogre,normal,water
+6,Agua,Lapras,normal,water
+6,Agua,Lombre,normal,water
+6,Agua,Ludicolo,normal,water
+6,Agua,Lumineon,normal,water
+6,Agua,Luvdisc,normal,water
+6,Agua,Manaphy,normal,water
+6,Agua,Mantine,normal,water
+6,Agua,Mantyke,normal,water
+6,Agua,Marill,normal,water
+6,Agua,Marshtomp,normal,water
+6,Agua,Milotic,normal,water
+6,Agua,Mudkip,normal,water
+6,Agua,Octillery,normal,water
+6,Agua,Omanyte,normal,water
+6,Agua,Omastar,normal,water
+6,Agua,Oshawott,normal,water
+6,Agua,Palpitoad,normal,water
+6,Agua,Panpour,normal,water
+6,Agua,Phione,normal,water
+6,Agua,Piplup,normal,water
+6,Agua,Politoed,normal,water
+6,Agua,Poliwag,normal,water
+6,Agua,Poliwhirl,normal,water
+6,Agua,Poliwrath,normal,fighting
+6,Agua,Prinplup,normal,water
+6,Agua,Qwilfish,normal,water
+6,Agua,Relicanth,normal,water
+6,Agua,Remoraid,normal,water
+6,Agua,Samurott,normal,water
+6,Agua,Seadra,normal,water
+6,Agua,Seaking,normal,water
+6,Agua,Seismitoad,normal,water
+6,Agua,Shellder,normal,water
+6,Agua,Skrelp,normal,water
+6,Agua,Squirtle,normal,water
+6,Agua,Staryu,normal,water
+6,Agua,Stunfisk,normal,electric
+6,Agua,Suicune,normal,water
+6,Agua,Swampert,normal,water
+6,Agua,Tentacool,normal,water
+6,Agua,Tentacruel,normal,water
+6,Agua,Totodile,normal,water
+6,Agua,Tympole,normal,water
+6,Agua,Vaporeon,normal,water
+6,Agua,Wailmer,normal,water
+6,Agua,Wailord,normal,water
+6,Agua,Wartortle,normal,water
+6,Agua,Whiscash,normal,water
+7,Siniestro,Absol,normal,dark
+7,Siniestro,Bibarel,normal,water
+7,Siniestro,Bidoof,normal,electric
+7,Siniestro,Cinccino,normal,electric
+7,Siniestro,Diglett,normal,ground
+7,Siniestro,Dugtrio,normal,ground
+7,Siniestro,Eevee,normal,ground
+7,Siniestro,Furfrou,normal,dark
+7,Siniestro,Furret,normal,fighting
+7,Siniestro,Glaceon,normal,ice
+7,Siniestro,Glameow,normal,dark
+7,Siniestro,Herdier,normal,electric
+7,Siniestro,Jolteon,normal,electric
+7,Siniestro,Leafeon,normal,grass
+7,Siniestro,Liepard,normal,dark
+7,Siniestro,Lillipup,normal,electric
+7,Siniestro,Linoone,normal,electric
+7,Siniestro,Meowth,normal,dark
+7,Siniestro,Mightyena,normal,dark
+7,Siniestro,Minccino,normal,dark
+7,Siniestro,Nidoran-F,normal,poison
+7,Siniestro,Nidoran-M,normal,poison
+7,Siniestro,Nidorina,normal,poison
+7,Siniestro,Nidorino,normal,poison
+7,Siniestro,Patrat,normal,dark
+7,Siniestro,Persian,normal,dark
+7,Siniestro,Poochyena,normal,dark
+7,Siniestro,Purrloin,normal,dark
+7,Siniestro,Purugly,normal,dark
+7,Siniestro,Raticate,normal,dark
+7,Siniestro,Rattata,normal,dark
+7,Siniestro,Sentret,normal,dark
+7,Siniestro,Skuntank,normal,dark
+7,Siniestro,Stoutland,normal,electric
+7,Siniestro,Stunky,normal,dark
+7,Siniestro,Umbreon,normal,dark
+7,Siniestro,Watchog,normal,fighting
+7,Siniestro,Zigzagoon,normal,electric
+7,Siniestro,Zoroark,normal,dark
+7,Siniestro,Zorua,normal,dark
+8,Lucha,Blaziken,normal,fighting
+8,Lucha,Breloom,normal,fighting
+8,Lucha,Combusken,normal,fighting
+8,Lucha,Conkeldurr,normal,fighting
+8,Lucha,Croagunk,normal,fighting
+8,Lucha,Electabuzz,normal,fighting
+8,Lucha,Electivire,normal,electric
+8,Lucha,Elekid,normal,electric
+8,Lucha,Gurdurr,normal,fighting
+8,Lucha,Hariyama,normal,fighting
+8,Lucha,Hawlucha,normal,fighting
+8,Lucha,Heracross,normal,fighting
+8,Lucha,Hitmonchan,normal,fighting
+8,Lucha,Hitmonlee,normal,fighting
+8,Lucha,Hitmontop,normal,fighting
+8,Lucha,Lucario,normal,fighting
+8,Lucha,Machamp,normal,fighting
+8,Lucha,Machoke,normal,fighting
+8,Lucha,Machop,normal,fighting
+8,Lucha,Makuhita,normal,fighting
+8,Lucha,Medicham,normal,psychic
+8,Lucha,Meditite,normal,psychic
+8,Lucha,Mienfoo,normal,fighting
+8,Lucha,Mienshao,normal,fighting
+8,Lucha,Riolu,normal,fighting
+8,Lucha,Sawk,normal,fighting
+8,Lucha,Scrafty,normal,fighting
+8,Lucha,Scraggy,normal,fighting
+8,Lucha,Throh,normal,fighting
+8,Lucha,Timburr,normal,fighting
+8,Lucha,Torchic,normal,fire
+8,Lucha,Toxicroak,normal,fighting
+8,Lucha,Tyrogue,normal,fighting
+9,Pocos movimientos,Burmy,normal,bug
+9,Pocos movimientos,Cascoon,normal,bug
+9,Pocos movimientos,Caterpie,normal,bug
+9,Pocos movimientos,Combee,normal,flying
+9,Pocos movimientos,Kakuna,bug,normal
+9,Pocos movimientos,Kricketot,normal,bug
+9,Pocos movimientos,Metapod,normal,bug
+9,Pocos movimientos,Scatterbug,bug,normal
+9,Pocos movimientos,Silcoon,normal,bug
+9,Pocos movimientos,Spewpa,normal,bug
+9,Pocos movimientos,Weedle,bug,electric
+9,Pocos movimientos,Wurmple,normal,bug
+10,Lucha / Siniestro,Barbaracle,normal,water
+10,Lucha / Siniestro,Beartic,normal,ice
+10,Lucha / Siniestro,Binacle,normal,water
+10,Lucha / Siniestro,Bisharp,normal,dark
+10,Lucha / Siniestro,Bouffalant,normal,fighting
+10,Lucha / Siniestro,Bunnelby,normal,ground
+10,Lucha / Siniestro,Cubchoo,normal,ice
+10,Lucha / Siniestro,Cubone,normal,fighting
+10,Lucha / Siniestro,Diggersby,normal,fighting
+10,Lucha / Siniestro,Drapion,normal,dark
+10,Lucha / Siniestro,Drilbur,normal,ground
+10,Lucha / Siniestro,Exploud,normal,fighting
+10,Lucha / Siniestro,Granbull,normal,fighting
+10,Lucha / Siniestro,Krokorok,normal,dark
+10,Lucha / Siniestro,Krookodile,normal,dark
+10,Lucha / Siniestro,Loudred,normal,fighting
+10,Lucha / Siniestro,Mankey,normal,fighting
+10,Lucha / Siniestro,Marowak,normal,fighting
+10,Lucha / Siniestro,Nidoking,normal,fighting
+10,Lucha / Siniestro,Nidoqueen,normal,dark
+10,Lucha / Siniestro,Pancham,normal,fighting
+10,Lucha / Siniestro,Pangoro,normal,fighting
+10,Lucha / Siniestro,Pansear,normal,fire
+10,Lucha / Siniestro,Pawniard,normal,dark
+10,Lucha / Siniestro,Pinsir,normal,fighting
+10,Lucha / Siniestro,Primeape,normal,fighting
+10,Lucha / Siniestro,Sandile,normal,dark
+10,Lucha / Siniestro,Sandshrew,normal,ground
+10,Lucha / Siniestro,Sandslash,normal,ground
+10,Lucha / Siniestro,Sharpedo,normal,water
+10,Lucha / Siniestro,Simipour,normal,water
+10,Lucha / Siniestro,Simisear,normal,fire
+10,Lucha / Siniestro,Skorupi,normal,dark
+10,Lucha / Siniestro,Slaking,normal,fighting
+10,Lucha / Siniestro,Slakoth,normal,fighting
+10,Lucha / Siniestro,Snubbull,normal,fighting
+10,Lucha / Siniestro,Tauros,normal,fire
+10,Lucha / Siniestro,Teddiursa,normal,fighting
+10,Lucha / Siniestro,Tyranitar,normal,dark
+10,Lucha / Siniestro,Ursaring,normal,fighting
+10,Lucha / Siniestro,Vigoroth,normal,fighting
+11,Dragón / Fuego,Archen,normal,rock
+11,Dragón / Fuego,Archeops,normal,flying
+11,Dragón / Fuego,Axew,normal,dragon
+11,Dragón / Fuego,Bagon,normal,dragon
+11,Dragón / Fuego,Charmander,normal,fire
+11,Dragón / Fuego,Charmeleon,normal,fire
+11,Dragón / Fuego,Deino,normal,dragon
+11,Dragón / Fuego,Dialga,normal,dragon
+11,Dragón / Fuego,Dragonair,normal,dragon
+11,Dragón / Fuego,Dragonite,normal,dragon
+11,Dragón / Fuego,Dratini,normal,dragon
+11,Dragón / Fuego,Druddigon,normal,dark
+11,Dragón / Fuego,Fraxure,normal,dragon
+11,Dragón / Fuego,Gabite,normal,dragon
+11,Dragón / Fuego,Gible,normal,ground
+11,Dragón / Fuego,Giratina,normal,psychic
+11,Dragón / Fuego,Giratina-Origin,normal,psychic
+11,Dragón / Fuego,Goodra,normal,fire
+11,Dragón / Fuego,Goomy,normal,poison
+11,Dragón / Fuego,Gyarados,normal,water
+11,Dragón / Fuego,Haxorus,normal,dragon
+11,Dragón / Fuego,Hydreigon,normal,dark
+11,Dragón / Fuego,Kyurem,normal,dragon
+11,Dragón / Fuego,Kyurem-Black,normal,dragon
+11,Dragón / Fuego,Kyurem-White,normal,dragon
+11,Dragón / Fuego,Palkia,normal,water
+11,Dragón / Fuego,Reshiram,normal,fire
+11,Dragón / Fuego,Salamence,normal,dragon
+11,Dragón / Fuego,Shelgon,normal,dragon
+11,Dragón / Fuego,Sliggoo,normal,poison
+11,Dragón / Fuego,Tyrantrum,normal,rock
+11,Dragón / Fuego,Tyrunt,normal,rock
+11,Dragón / Fuego,Zekrom,normal,electric
+11,Dragón / Fuego,Zweilous,normal,dragon
+11,Dragón / Fuego,Zygarde,normal,dragon
+12,Veneno / Agua,Arbok,normal,poison
+12,Veneno / Agua,Camerupt,normal,fire
+12,Veneno / Agua,Cradily,normal,grass
+12,Veneno / Agua,Dewgong,normal,water
+12,Veneno / Agua,Ekans,normal,poison
+12,Veneno / Agua,Garbodor,normal,poison
+12,Veneno / Agua,Gastrodon,normal,water
+12,Veneno / Agua,Grimer,normal,poison
+12,Veneno / Agua,Grotle,normal,grass
+12,Veneno / Agua,Gulpin,normal,poison
+12,Veneno / Agua,Heatmor,normal,fire
+12,Veneno / Agua,Hippopotas,normal,ground
+12,Veneno / Agua,Hippowdon,normal,ground
+12,Veneno / Agua,Koffing,normal,poison
+12,Veneno / Agua,Lanturn,normal,water
+12,Veneno / Agua,Lileep,normal,grass
+12,Veneno / Agua,Magcargo,normal,fire
+12,Veneno / Agua,Mawile,normal,dark
+12,Veneno / Agua,Muk,normal,poison
+12,Veneno / Agua,Munchlax,normal,fighting
+12,Veneno / Agua,Numel,normal,fire
+12,Veneno / Agua,Quagsire,normal,water
+12,Veneno / Agua,Sealeo,normal,water
+12,Veneno / Agua,Seel,normal,water
+12,Veneno / Agua,Seviper,normal,dark
+12,Veneno / Agua,Shellos,normal,water
+12,Veneno / Agua,Slugma,normal,fire
+12,Veneno / Agua,Snorlax,normal,fighting
+12,Veneno / Agua,Spheal,normal,water
+12,Veneno / Agua,Swalot,normal,poison
+12,Veneno / Agua,Torterra,normal,grass
+12,Veneno / Agua,Trubbish,normal,poison
+12,Veneno / Agua,Turtwig,normal,grass
+12,Veneno / Agua,Walrein,normal,water
+12,Veneno / Agua,Weezing,normal,poison
+12,Veneno / Agua,Wooper,normal,water
+13,Bicho,Accelgor,normal,poison
+13,Bicho,Ariados,normal,bug
+13,Bicho,Beautifly,normal,bug
+13,Bicho,Beedrill,normal,bug
+13,Bicho,Butterfree,normal,bug
+13,Bicho,Dustox,normal,bug
+13,Bicho,Escavalier,normal,bug
+13,Bicho,Flygon,normal,ground
+13,Bicho,Gligar,normal,dark
+13,Bicho,Gliscor,normal,dark
+13,Bicho,Illumise,normal,electric
+13,Bicho,Karrablast,normal,bug
+13,Bicho,Kricketune,normal,bug
+13,Bicho,Leavanny,normal,grass
+13,Bicho,Ledian,normal,fighting
+13,Bicho,Ledyba,normal,bug
+13,Bicho,Masquerain,normal,bug
+13,Bicho,Mothim,normal,bug
+13,Bicho,Nincada,normal,bug
+13,Bicho,Ninjask,normal,bug
+13,Bicho,Scizor,normal,fighting
+13,Bicho,Scyther,normal,bug
+13,Bicho,Sewaddle,normal,grass
+13,Bicho,Shedinja,normal,bug
+13,Bicho,Shelmet,normal,poison
+13,Bicho,Spinarak,normal,bug
+13,Bicho,Surskit,normal,water
+13,Bicho,Swadloon,normal,grass
+13,Bicho,Trapinch,normal,ground
+13,Bicho,Venomoth,normal,bug
+13,Bicho,Venonat,normal,psychic
+13,Bicho,Vespiquen,normal,bug
+13,Bicho,Vibrava,normal,ground
+13,Bicho,Vivillon,normal,bug
+13,Bicho,Volbeat,normal,bug
+13,Bicho,Volcarona,normal,fire
+13,Bicho,Wormadam-Sandy,normal,ground
+13,Bicho,Wormadam-Trash,normal,psychic
+13,Bicho,Yanma,normal,flying
+13,Bicho,Yanmega,normal,bug
+14,Fuego,Arcanine,normal,fire
+14,Fuego,Chimchar,normal,fire
+14,Fuego,Cyndaquil,normal,fire
+14,Fuego,Darmanitan,normal,fire
+14,Fuego,Darumaka,normal,fire
+14,Fuego,Emboar,normal,fire
+14,Fuego,Entei,normal,fire
+14,Fuego,Flareon,normal,fire
+14,Fuego,Growlithe,normal,fire
+14,Fuego,Larvesta,normal,fire
+14,Fuego,Litleo,normal,fire
+14,Fuego,Magby,normal,fire
+14,Fuego,Magmar,normal,fire
+14,Fuego,Magmortar,normal,fire
+14,Fuego,Monferno,normal,fire
+14,Fuego,Pignite,normal,fire
+14,Fuego,Ponyta,normal,fire
+14,Fuego,Pyroar,normal,fire
+14,Fuego,Quilava,normal,fire
+14,Fuego,Rapidash,normal,fire
+14,Fuego,Tepig,normal,fire
+14,Fuego,Typhlosion,normal,fire
+14,Fuego,Volcanion,normal,fire
+15,Psíquico,Audino,normal,psychic
+15,Psíquico,Blissey,normal,psychic
+15,Psíquico,Buneary,normal,fighting
+15,Psíquico,Chansey,normal,psychic
+15,Psíquico,Clefairy,normal,psychic
+15,Psíquico,Cleffa,normal,psychic
+15,Psíquico,Delcatty,normal,electric
+15,Psíquico,Delibird,normal,ice
+15,Psíquico,Happiny,normal,psychic
+15,Psíquico,Igglybuff,normal,psychic
+15,Psíquico,Jigglypuff,normal,psychic
+15,Psíquico,Lickilicky,normal,fighting
+15,Psíquico,Lickitung,normal,fighting
+15,Psíquico,Lopunny,normal,fighting
+15,Psíquico,Miltank,normal,fighting
+15,Psíquico,Pichu,normal,electric
+15,Psíquico,Pikachu,normal,electric
+15,Psíquico,Raichu,normal,electric
+15,Psíquico,Skitty,normal,electric
+15,Psíquico,Spinda,normal,psychic
+15,Psíquico,Sylveon,normal,psychic
+15,Psíquico,Togekiss,normal,psychic
+15,Psíquico,Togepi,normal,psychic
+15,Psíquico,Togetic,normal,psychic
+15,Psíquico,Whismur,normal,fire
+15,Psíquico,Wigglytuff,normal,psychic
+16,Pocos movimientos,Beldum,normal,steel
+16,Pocos movimientos,Castform,normal,ice
+16,Pocos movimientos,Cryogonal,normal,ice
+16,Pocos movimientos,Ditto,normal,unknown
+16,Pocos movimientos,Frillish,normal,water
+16,Pocos movimientos,Genesect,normal,bug
+16,Pocos movimientos,Glalie,normal,ice
+16,Pocos movimientos,Gourgeist,normal,grass
+16,Pocos movimientos,Gourgeist-Large,unknown,unknown
+16,Pocos movimientos,Gourgeist-Small,unknown,unknown
+16,Pocos movimientos,Gourgeist-Super,unknown,unknown
+16,Pocos movimientos,Inkay,normal,dark
+16,Pocos movimientos,Jellicent,normal,water
+16,Pocos movimientos,Magikarp,normal,water
+16,Pocos movimientos,Malamar,normal,dark
+16,Pocos movimientos,Pumpkaboo,normal,grass
+16,Pocos movimientos,Pumpkaboo-Large,unknown,unknown
+16,Pocos movimientos,Pumpkaboo-Small,unknown,unknown
+16,Pocos movimientos,Pumpkaboo-Super,unknown,unknown
+16,Pocos movimientos,Smeargle,normal,unknown
+16,Pocos movimientos,Snorunt,normal,ice
+16,Pocos movimientos,Thundurus,normal,electric
+16,Pocos movimientos,Thundurus-Therian,normal,electric
+16,Pocos movimientos,Tornadus,normal,dark
+16,Pocos movimientos,Tornadus-Therian,normal,dark
+16,Pocos movimientos,Tynamo,electric,normal
+16,Pocos movimientos,Unown,fire,water
+16,Pocos movimientos,Vanillish,normal,ice
+16,Pocos movimientos,Vanillite,normal,ice
+16,Pocos movimientos,Vanilluxe,normal,ice
+16,Pocos movimientos,Wobbuffet,normal,fighting
+16,Pocos movimientos,Wynaut,normal,fighting
+17,Eléctrico,Ampharos,normal,electric
+17,Eléctrico,Blitzle,normal,electric
+17,Eléctrico,Chinchou,normal,water
+17,Eléctrico,Dedenne,normal,electric
+17,Eléctrico,Eelektrik,normal,electric
+17,Eléctrico,Eelektross,normal,electric
+17,Eléctrico,Electrike,normal,electric
+17,Eléctrico,Electrode,normal,electric
+17,Eléctrico,Emolga,normal,electric
+17,Eléctrico,Flaaffy,normal,electric
+17,Eléctrico,Galvantula,normal,bug
+17,Eléctrico,Heliolisk,normal,electric
+17,Eléctrico,Helioptile,normal,electric
+17,Eléctrico,Joltik,normal,bug
+17,Eléctrico,Klang,normal,electric
+17,Eléctrico,Klink,normal,electric
+17,Eléctrico,Klinklang,normal,electric
+17,Eléctrico,Luxio,normal,electric
+17,Eléctrico,Luxray,normal,electric
+17,Eléctrico,Magnemite,normal,electric
+17,Eléctrico,Magneton,normal,electric
+17,Eléctrico,Magnezone,normal,electric
+17,Eléctrico,Manectric,normal,electric
+17,Eléctrico,Mareep,normal,electric
+17,Eléctrico,Minun,normal,electric
+17,Eléctrico,Pachirisu,normal,electric
+17,Eléctrico,Plusle,normal,electric
+17,Eléctrico,Raikou,normal,electric
+17,Eléctrico,Rotom,normal,electric
+17,Eléctrico,Rotom-Fan,normal,electric
+17,Eléctrico,Rotom-Frost,normal,electric
+17,Eléctrico,Rotom-Heat,normal,electric
+17,Eléctrico,Rotom-Mow,normal,electric
+17,Eléctrico,Rotom-Wash,normal,electric
+17,Eléctrico,Shinx,normal,electric
+17,Eléctrico,Voltorb,normal,electric
+17,Eléctrico,Zebstrika,normal,electric
+18,Psíquico,Abra,normal,psychic
+18,Psíquico,Alakazam,normal,psychic
+18,Psíquico,Aromatisse,normal,psychic
+18,Psíquico,Azelf,normal,psychic
+18,Psíquico,Baltoy,normal,psychic
+18,Psíquico,Beheeyem,psychic,normal
+18,Psíquico,Braixen,normal,psychic
+18,Psíquico,Bronzong,normal,psychic
+18,Psíquico,Bronzor,psychic,normal
+18,Psíquico,Carbink,normal,psychic
+18,Psíquico,Celebi,normal,psychic
+18,Psíquico,Chimecho,normal,psychic
+18,Psíquico,Chingling,normal,psychic
+18,Psíquico,Claydol,normal,psychic
+18,Psíquico,Cresselia,normal,psychic
+18,Psíquico,Delphox,normal,psychic
+18,Psíquico,Deoxys,normal,psychic
+18,Psíquico,Deoxys-Attack,normal,psychic
+18,Psíquico,Deoxys-Defense,normal,psychic
+18,Psíquico,Deoxys-Speed,normal,psychic
+18,Psíquico,Diancie,normal,psychic
+18,Psíquico,Drowzee,normal,psychic
+18,Psíquico,Duosion,normal,psychic
+18,Psíquico,Elgyem,psychic,normal
+18,Psíquico,Espeon,normal,psychic
+18,Psíquico,Espurr,normal,psychic
+18,Psíquico,Fennekin,normal,fire
+18,Psíquico,Gallade,normal,psychic
+18,Psíquico,Gardevoir,normal,psychic
+18,Psíquico,Girafarig,normal,psychic
+18,Psíquico,Gothita,normal,psychic
+18,Psíquico,Gothitelle,normal,psychic
+18,Psíquico,Gothorita,normal,psychic
+18,Psíquico,Grumpig,normal,psychic
+18,Psíquico,Hoopa,psychic,normal
+18,Psíquico,Hoopa-Unbound,psychic,normal
+18,Psíquico,Hypno,normal,psychic
+18,Psíquico,Jirachi,normal,psychic
+18,Psíquico,Jynx,normal,psychic
+18,Psíquico,Kadabra,psychic,normal
+18,Psíquico,Kirlia,normal,psychic
+18,Psíquico,Klefki,normal,psychic
+18,Psíquico,Latias,normal,psychic
+18,Psíquico,Latios,normal,psychic
+18,Psíquico,Lugia,normal,psychic
+18,Psíquico,Lunatone,normal,psychic
+18,Psíquico,Meloetta,normal,psychic
+18,Psíquico,Meowstic-F,normal,psychic
+18,Psíquico,Meowstic-M,normal,psychic
+18,Psíquico,Mew,normal,psychic
+18,Psíquico,Mewtwo,normal,psychic
+18,Psíquico,Mime Jr.,normal,psychic
+18,Psíquico,Mr. Mime,normal,psychic
+18,Psíquico,Munna,normal,psychic
+18,Psíquico,Musharna,normal,psychic
+18,Psíquico,Natu,normal,psychic
+18,Psíquico,Porygon,normal,psychic
+18,Psíquico,Porygon-Z,normal,psychic
+18,Psíquico,Porygon2,normal,psychic
+18,Psíquico,Ralts,normal,psychic
+18,Psíquico,Reuniclus,normal,psychic
+18,Psíquico,Sigilyph,psychic,normal
+18,Psíquico,Slowbro,normal,psychic
+18,Psíquico,Slowking,normal,psychic
+18,Psíquico,Slowpoke,normal,psychic
+18,Psíquico,Smoochum,normal,psychic
+18,Psíquico,Solosis,normal,psychic
+18,Psíquico,Solrock,normal,psychic
+18,Psíquico,Spoink,normal,psychic
+18,Psíquico,Spritzee,normal,psychic
+18,Psíquico,Stantler,normal,psychic
+18,Psíquico,Starmie,normal,psychic
+18,Psíquico,Swoobat,normal,psychic
+18,Psíquico,Uxie,normal,psychic
+18,Psíquico,Victini,normal,fire
+18,Psíquico,Woobat,normal,psychic
+18,Psíquico,Xatu,normal,psychic
+19,Planta,Abomasnow,normal,grass
+19,Planta,Amoonguss,normal,grass
+19,Planta,Bellsprout,normal,grass
+19,Planta,Bulbasaur,normal,grass
+19,Planta,Cacnea,normal,grass
+19,Planta,Cacturne,normal,grass
+19,Planta,Carnivine,normal,grass
+19,Planta,Chesnaught,normal,grass
+19,Planta,Chespin,normal,grass
+19,Planta,Deerling,normal,grass
+19,Planta,Exeggutor,normal,grass
+19,Planta,Ferroseed,normal,grass
+19,Planta,Ferrothorn,normal,grass
+19,Planta,Foongus,normal,grass
+19,Planta,Gogoat,normal,grass
+19,Planta,Grovyle,normal,grass
+19,Planta,Ivysaur,normal,grass
+19,Planta,Lotad,normal,grass
+19,Planta,Nuzleaf,normal,grass
+19,Planta,Pansage,normal,grass
+19,Planta,Paras,normal,grass
+19,Planta,Parasect,normal,grass
+19,Planta,Quilladin,normal,grass
+19,Planta,Sawsbuck,normal,grass
+19,Planta,Sceptile,normal,grass
+19,Planta,Scolipede,normal,poison
+19,Planta,Seedot,normal,grass
+19,Planta,Shiftry,normal,grass
+19,Planta,Shroomish,normal,grass
+19,Planta,Simisage,normal,grass
+19,Planta,Skiddo,normal,grass
+19,Planta,Snover,normal,grass
+19,Planta,Tangela,normal,grass
+19,Planta,Tangrowth,normal,grass
+19,Planta,Treecko,normal,grass
+19,Planta,Tropius,normal,grass
+19,Planta,Venipede,normal,poison
+19,Planta,Venusaur,normal,grass
+19,Planta,Victreebel,normal,grass
+19,Planta,Virizion,normal,grass
+19,Planta,Weepinbell,normal,grass
+19,Planta,Whirlipede,normal,poison
+19,Planta,Wormadam,normal,grass

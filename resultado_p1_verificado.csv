@@ -1,0 +1,757 @@
+﻿Pokemon,cluster_p1,nombre_cluster_p1,tipo_1,tipo_2,num_movimientos,normal,fire,water,electric,grass,ice,fighting,poison,ground,flying,psychic,bug,rock,ghost,dragon,dark,steel,fairy
+Abomasnow,12,Planta,normal,grass,90,30,1,3,1,15,12,5,2,4,1,4,1,3,2,2,2,2,0
+Abra,2,Psíquico,normal,psychic,97,28,3,2,5,3,2,6,2,1,1,25,2,1,3,1,9,2,1
+Absol,14,Fuego / Siniestro,normal,dark,122,42,6,3,6,1,5,5,2,2,3,9,4,5,7,1,18,2,1
+Accelgor,4,Pocos movimientos,normal,poison,76,28,1,3,1,4,1,3,8,3,1,6,8,2,2,1,3,1,0
+Aegislash,17,Roca / Lucha,normal,steel,69,23,2,2,3,1,1,4,2,1,2,4,2,4,6,1,3,8,0
+Aerodactyl,1,Dragón / Psíquico,normal,flying,98,29,7,3,2,1,2,2,2,4,10,3,1,10,3,5,10,4,0
+Aggron,17,Roca / Lucha,normal,fighting,128,38,6,6,7,2,6,12,2,6,2,2,2,11,4,6,6,10,0
+Aipom,14,Fuego / Siniestro,normal,dark,114,42,3,3,6,4,2,12,3,4,4,5,3,1,6,1,13,2,0
+Alakazam,2,Psíquico,normal,psychic,108,32,3,2,5,3,2,7,2,1,1,31,2,1,3,1,9,2,1
+Alomomola,8,Agua,normal,water,70,23,1,13,1,1,6,2,2,1,2,9,1,2,2,1,2,1,0
+Altaria,1,Dragón / Psíquico,normal,flying,102,37,6,2,1,3,4,2,2,4,11,6,1,1,3,9,4,3,3
+Amaura,7,Hielo,normal,ice,85,24,1,4,6,1,11,2,2,3,1,9,1,9,1,3,2,5,0
+Ambipom,14,Fuego / Siniestro,normal,dark,116,44,3,3,6,4,2,12,3,4,4,5,3,1,6,1,13,2,0
+Amoonguss,11,Planta,normal,grass,67,24,2,2,1,13,1,1,7,1,1,2,2,2,2,1,4,1,0
+Ampharos,0,Eléctrico,normal,electric,101,39,2,2,20,3,1,9,2,3,1,5,2,2,2,3,3,2,0
+Anorith,6,Agua,normal,rock,79,29,2,5,1,1,1,3,3,6,2,2,6,9,2,1,3,3,0
+Arbok,15,Veneno / Agua,normal,poison,96,35,3,3,2,3,3,1,15,5,1,2,2,3,2,2,12,2,0
+Arcanine,14,Fuego / Siniestro,normal,fire,90,37,15,1,3,2,1,5,2,4,2,3,1,1,1,3,5,3,1
+Arceus,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Bug,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Dark,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Dragon,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Electric,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Fairy,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Fighting,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Fire,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Flying,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Ghost,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Grass,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Ground,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Ice,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Poison,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Psychic,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Rock,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Steel,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Arceus-Water,16,Arceus,normal,psychic,147,37,9,10,6,6,6,5,4,5,5,17,5,7,5,8,7,5,0
+Archen,1,Dragón / Psíquico,normal,rock,83,21,2,2,1,1,1,3,2,5,9,5,2,11,2,4,8,4,0
+Archeops,1,Dragón / Psíquico,normal,flying,90,23,2,2,1,1,1,4,2,5,11,5,2,11,2,6,8,4,0
+Ariados,4,Pocos movimientos,normal,bug,85,29,2,1,2,3,1,1,9,2,2,5,15,1,3,1,7,1,0
+Armaldo,17,Roca / Lucha,normal,rock,92,33,2,6,1,1,1,6,3,8,2,2,6,10,2,1,3,5,0
+Aromatisse,3,Psíquico / Eléctrico,normal,psychic,78,30,2,2,4,3,1,2,2,1,1,12,1,1,1,1,2,3,9
+Aron,17,Roca / Lucha,normal,rock,86,32,2,3,3,1,1,4,2,6,2,2,2,9,4,2,2,9,0
+Articuno,10,Volador,normal,ice,78,22,2,3,1,1,13,2,2,2,12,5,3,3,2,2,1,2,0
+Audino,3,Psíquico / Eléctrico,normal,psychic,113,43,6,3,7,3,5,5,2,2,1,18,2,1,2,1,4,2,6
+Aurorus,7,Hielo,normal,ice,90,25,1,4,7,1,12,2,2,4,1,10,1,9,1,3,2,5,0
+Avalugg,7,Hielo,normal,ice,76,28,1,4,1,1,11,3,2,3,1,4,1,5,2,1,3,5,0
+Axew,14,Fuego / Siniestro,normal,dragon,75,29,3,3,2,1,1,5,3,2,2,2,2,2,1,8,7,2,0
+Azelf,2,Psíquico,normal,psychic,96,26,6,3,7,3,2,3,2,2,2,21,3,3,2,1,7,2,1
+Azumarill,8,Agua,normal,water,109,46,1,18,1,2,6,9,2,4,2,5,1,2,1,1,4,2,2
+Azurill,8,Agua,normal,water,77,35,1,13,1,1,5,1,2,2,2,3,1,2,1,1,3,2,1
+Bagon,1,Dragón / Psíquico,normal,dragon,79,31,7,3,1,1,1,3,2,2,2,3,2,3,2,10,4,2,0
+Baltoy,2,Psíquico,normal,psychic,91,26,2,2,2,3,2,1,2,7,1,26,2,8,2,1,1,2,1
+Banette,5,Siniestro / Fantasma,normal,ghost,100,30,3,2,6,2,2,1,3,2,1,13,2,1,15,1,14,1,1
+Barbaracle,14,Fuego / Siniestro,normal,water,101,29,1,10,1,2,4,9,5,7,2,2,4,9,2,2,10,2,0
+Barboach,8,Agua,normal,water,72,22,1,13,2,1,5,1,2,10,2,4,1,3,1,2,1,1,0
+Basculin,8,Agua,normal,water,71,27,1,14,1,1,4,4,2,2,2,4,1,1,1,1,4,1,0
+Bastiodon,17,Roca / Lucha,normal,rock,90,29,5,2,5,1,4,3,2,7,1,4,1,11,2,2,3,8,0
+Bayleef,11,Planta,normal,grass,82,33,2,1,1,20,1,3,3,2,1,6,2,2,1,1,1,2,0
+Beartic,14,Fuego / Siniestro,normal,ice,88,31,1,7,1,2,11,9,2,3,2,2,1,4,2,1,6,1,2
+Beautifly,4,Pocos movimientos,normal,bug,78,28,2,1,2,7,1,1,4,1,8,3,10,1,3,2,2,2,0
+Beedrill,4,Pocos movimientos,normal,bug,86,31,2,1,2,3,1,3,7,2,7,3,12,1,2,1,6,2,0
+Beheeyem,2,Psíquico,psychic,normal,92,28,1,2,5,2,1,1,2,1,1,31,2,3,3,1,6,2,0
+Beldum,4,Pocos movimientos,normal,steel,6,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0
+Bellossom,11,Planta,normal,grass,85,33,2,1,1,22,1,2,7,1,1,2,2,1,1,1,2,1,4
+Bellsprout,11,Planta,normal,grass,80,32,2,1,1,16,1,1,10,1,1,3,3,1,1,1,4,1,0
+Bergmite,7,Hielo,normal,ice,66,23,1,4,1,1,11,2,2,1,1,4,1,5,2,1,2,4,0
+Bibarel,14,Fuego / Siniestro,normal,water,96,40,2,11,6,2,4,4,2,5,2,3,2,3,3,1,4,2,0
+Bidoof,14,Fuego / Siniestro,normal,electric,82,37,2,4,6,2,4,3,2,3,2,3,2,3,3,1,3,2,0
+Binacle,14,Fuego / Siniestro,normal,water,92,26,1,10,1,2,4,5,5,6,2,2,4,9,2,1,10,2,0
+Bisharp,14,Fuego / Siniestro,normal,dark,93,26,1,2,3,2,1,9,3,2,2,4,3,6,3,2,18,6,0
+Blastoise,6,Agua,normal,water,117,41,1,20,1,1,9,10,2,6,1,4,2,5,1,4,4,5,0
+Blaziken,14,Fuego / Siniestro,normal,fighting,122,43,17,1,2,2,1,18,3,6,8,4,2,4,3,2,5,1,0
+Blissey,3,Psíquico / Eléctrico,normal,psychic,133,58,6,3,8,4,7,10,2,5,1,11,1,6,2,1,3,2,3
+Blitzle,0,Eléctrico,normal,electric,63,24,2,2,12,1,1,2,2,2,2,4,2,1,1,1,3,1,0
+Boldore,9,Roca,normal,rock,63,22,1,1,1,1,1,2,2,7,1,3,1,11,2,1,1,5,0
+Bonsly,17,Roca / Lucha,normal,rock,74,33,2,1,1,1,1,4,2,4,1,4,1,9,2,1,6,1,0
+Bouffalant,14,Fuego / Siniestro,normal,fighting,77,33,2,3,2,1,1,5,4,5,2,4,2,4,1,2,4,2,0
+Braixen,2,Psíquico,normal,psychic,78,24,13,2,3,3,1,3,2,1,1,14,1,1,1,1,5,2,0
+Braviary,10,Volador,normal,flying,69,26,3,2,1,1,1,4,2,1,13,3,2,3,2,1,2,2,0
+Breloom,13,Lucha,normal,fighting,101,38,2,1,2,14,1,18,5,2,1,2,2,4,1,1,4,2,1
+Bronzong,2,Psíquico,normal,psychic,88,24,2,2,2,3,1,2,2,3,1,22,2,8,3,1,3,7,0
+Bronzor,2,Psíquico,psychic,normal,80,19,2,2,2,3,1,1,2,3,1,21,2,8,3,1,3,6,0
+Budew,11,Planta,normal,grass,71,26,2,3,1,17,1,1,4,3,1,3,2,1,2,1,1,1,1
+Buizel,8,Agua,normal,water,83,32,1,16,1,1,6,6,2,3,1,3,2,2,1,1,3,2,0
+Bulbasaur,11,Planta,normal,grass,92,39,2,1,1,22,1,2,6,2,1,4,3,1,2,1,2,1,1
+Buneary,3,Psíquico / Eléctrico,normal,fighting,98,43,3,3,6,3,3,9,2,4,2,6,1,1,2,1,4,2,3
+Bunnelby,17,Roca / Lucha,normal,ground,76,28,1,2,2,2,1,6,3,7,2,3,2,7,1,1,5,3,0
+Burmy,4,Pocos movimientos,normal,bug,22,3,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,0
+Butterfree,4,Pocos movimientos,normal,bug,85,29,2,2,2,6,1,1,4,1,8,7,11,1,4,2,2,2,0
+Cacnea,12,Planta,normal,grass,98,32,2,1,2,16,1,9,7,5,1,3,4,2,3,1,8,1,0
+Cacturne,12,Planta,normal,grass,109,37,2,1,2,17,1,12,7,5,1,3,4,2,3,1,10,1,0
+Camerupt,15,Veneno / Agua,normal,fire,95,42,13,1,1,2,1,2,2,9,1,3,1,9,2,1,1,3,1
+Carbink,9,Roca,normal,psychic,69,23,2,1,2,1,2,1,2,2,1,12,1,11,1,1,1,3,2
+Carnivine,11,Planta,normal,grass,81,30,2,1,1,19,1,1,4,2,1,2,5,1,1,1,8,1,0
+Carracosta,17,Roca / Lucha,normal,water,84,22,1,14,1,1,4,5,2,5,1,4,1,12,2,1,4,4,0
+Carvanha,8,Agua,normal,water,81,30,1,11,1,1,6,1,3,2,2,4,2,2,3,1,10,1,0
+Cascoon,4,Pocos movimientos,normal,bug,8,3,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,1,0
+Castform,8,Agua,normal,ice,84,32,6,6,5,3,7,1,3,1,3,6,1,2,4,1,2,1,0
+Caterpie,4,Pocos movimientos,normal,bug,5,2,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Celebi,2,Psíquico,normal,psychic,101,36,2,3,4,11,1,1,2,3,2,18,4,4,3,1,4,1,1
+Chandelure,5,Siniestro / Fantasma,normal,fire,81,22,13,1,2,3,2,1,6,1,1,10,1,1,8,1,7,1,0
+Chansey,3,Psíquico / Eléctrico,normal,psychic,130,57,6,3,8,4,6,9,2,5,1,11,1,6,2,1,3,2,3
+Charmander,14,Fuego / Siniestro,normal,fire,106,40,18,1,2,1,1,8,2,3,4,2,2,4,2,7,6,3,0
+Charmeleon,14,Fuego / Siniestro,normal,fire,106,40,18,1,2,1,1,8,2,3,4,2,2,4,2,7,6,3,0
+Chatot,10,Volador,normal,flying,74,28,3,2,1,1,1,1,2,2,13,5,2,1,3,2,5,2,0
+Cherrim,11,Planta,normal,grass,71,32,2,1,1,16,1,1,2,1,1,4,1,2,1,1,1,1,2
+Cherubi,11,Planta,normal,grass,68,30,2,1,1,15,1,1,2,1,1,4,1,2,1,1,1,1,2
+Chesnaught,12,Planta,normal,grass,109,34,2,1,2,15,1,13,4,6,2,4,2,6,3,3,6,5,0
+Chespin,12,Planta,normal,grass,97,30,2,1,2,12,1,11,4,5,2,4,2,6,3,2,5,5,0
+Chikorita,11,Planta,normal,grass,80,32,2,1,1,20,1,2,3,2,1,6,2,2,1,1,1,2,0
+Chimchar,14,Fuego / Siniestro,normal,fire,96,34,15,1,2,2,1,13,3,3,3,3,2,3,2,1,6,2,0
+Chimecho,2,Psíquico,normal,psychic,99,39,2,2,4,3,2,1,2,1,1,25,2,2,5,1,5,1,1
+Chinchou,8,Agua,normal,water,81,24,1,15,13,1,6,1,2,1,2,5,2,1,2,1,2,1,1
+Chingling,2,Psíquico,normal,psychic,88,35,2,2,4,2,2,1,2,1,1,20,2,2,4,1,5,1,1
+Cinccino,3,Psíquico / Eléctrico,normal,electric,83,38,2,3,5,4,1,3,3,3,1,4,2,2,1,1,5,2,3
+Clamperl,8,Agua,normal,water,60,22,1,13,1,1,5,1,2,2,1,3,1,1,2,1,1,2,0
+Clauncher,8,Agua,normal,water,65,21,1,15,1,1,3,1,5,1,2,2,2,3,1,2,1,3,0
+Clawitzer,8,Agua,normal,water,72,23,1,15,1,1,3,3,5,1,2,3,2,3,2,2,2,3,0
+Claydol,2,Psíquico,normal,psychic,97,29,2,2,2,3,2,2,2,7,1,27,2,9,2,1,1,2,1
+Clefairy,3,Psíquico / Eléctrico,normal,psychic,143,56,6,3,7,5,5,10,2,3,2,20,2,3,3,1,5,3,7
+Cleffa,3,Psíquico / Eléctrico,normal,psychic,107,47,5,3,3,5,2,3,2,3,1,17,2,2,3,1,3,2,3
+Cloyster,7,Hielo,normal,water,83,32,1,13,1,1,11,1,4,3,1,3,3,2,1,1,3,2,0
+Cobalion,9,Roca,normal,fighting,74,28,1,1,4,1,1,8,3,1,3,5,2,5,1,1,3,6,0
+Cofagrigus,5,Siniestro / Fantasma,normal,psychic,87,25,2,2,2,3,2,1,3,1,1,18,2,1,11,1,10,2,0
+Combee,4,Pocos movimientos,normal,flying,12,4,0,0,0,0,0,0,0,1,3,0,3,0,1,0,0,0,0
+Combusken,14,Fuego / Siniestro,normal,fighting,106,39,15,1,2,1,1,16,3,4,6,3,2,3,3,2,4,1,0
+Conkeldurr,13,Lucha,normal,fighting,87,30,3,2,2,2,2,20,3,4,1,2,1,7,1,1,5,1,0
+Corphish,6,Agua,normal,water,91,31,1,13,1,1,5,5,3,4,2,2,3,4,2,2,9,3,0
+Corsola,7,Hielo,normal,rock,103,37,2,10,1,2,7,2,2,7,1,10,1,12,4,1,2,2,0
+Cottonee,11,Planta,normal,grass,69,24,2,1,1,15,1,1,3,1,2,3,1,1,1,1,7,1,3
+Cradily,15,Veneno / Agua,normal,grass,91,36,2,2,1,11,1,2,6,5,1,5,3,9,4,1,1,1,0
+Cranidos,17,Roca / Lucha,normal,rock,94,34,6,2,5,1,3,5,2,6,1,3,1,10,3,2,7,3,0
+Crawdaunt,6,Agua,normal,water,101,36,1,14,1,1,6,5,4,4,2,2,3,4,2,2,11,3,0
+Cresselia,2,Psíquico,normal,psychic,79,25,2,2,3,4,5,1,2,2,1,21,3,1,2,1,1,1,2
+Croagunk,13,Lucha,normal,fighting,106,28,2,2,2,1,3,17,9,6,2,4,3,3,4,2,16,2,0
+Crobat,10,Volador,normal,flying,92,28,3,2,1,2,2,2,7,1,14,4,4,1,6,2,11,2,0
+Croconaw,6,Agua,normal,water,104,37,1,15,1,1,7,10,2,4,2,2,2,4,3,3,7,3,0
+Crustle,9,Roca,normal,rock,76,24,1,2,1,2,1,3,3,8,2,2,5,11,3,1,5,2,0
+Cryogonal,7,Hielo,normal,ice,64,20,1,3,1,2,12,1,4,1,2,5,2,1,2,1,3,3,0
+Cubchoo,14,Fuego / Siniestro,normal,ice,74,27,1,5,1,2,10,6,2,2,2,2,1,2,2,1,5,1,2
+Cubone,14,Fuego / Siniestro,normal,fighting,101,41,6,1,2,1,4,11,2,9,2,2,2,7,1,1,4,4,1
+Cyndaquil,14,Fuego / Siniestro,normal,fire,77,34,18,1,2,1,1,3,2,3,2,3,1,2,1,1,1,1,0
+Darkrai,5,Siniestro / Fantasma,normal,dark,103,28,4,2,6,1,5,7,4,2,2,8,2,3,8,3,17,1,0
+Darmanitan,14,Fuego / Siniestro,normal,fire,88,30,13,1,1,3,1,9,2,4,1,4,2,6,1,1,7,2,0
+Darumaka,14,Fuego / Siniestro,normal,fire,77,28,13,1,1,3,1,7,2,2,1,3,2,4,1,1,5,2,0
+Dedenne,0,Eléctrico,normal,electric,72,26,2,2,17,2,1,1,2,2,2,2,3,1,1,1,3,2,2
+Deerling,12,Planta,normal,grass,70,28,2,2,3,11,1,3,2,2,2,4,1,1,2,1,3,1,1
+Deino,1,Dragón / Psíquico,normal,dragon,75,27,4,3,4,1,2,3,2,2,1,3,1,2,3,8,8,1,0
+Delcatty,3,Psíquico / Eléctrico,normal,electric,102,51,2,3,7,3,4,3,2,4,1,6,1,2,2,1,5,2,3
+Delibird,7,Hielo,normal,ice,83,31,1,3,1,2,12,6,3,3,7,3,2,2,2,1,3,1,0
+Delphox,2,Psíquico,normal,psychic,89,26,15,2,3,3,1,3,2,1,1,18,2,1,2,1,6,2,0
+Deoxys,2,Psíquico,normal,psychic,128,34,3,3,8,4,5,14,3,3,2,25,2,4,4,1,9,4,0
+Deoxys-Attack,2,Psíquico,normal,psychic,128,34,3,3,8,4,5,14,3,3,2,25,2,4,4,1,9,4,0
+Deoxys-Defense,2,Psíquico,normal,psychic,128,34,3,3,8,4,5,14,3,3,2,25,2,4,4,1,9,4,0
+Deoxys-Speed,2,Psíquico,normal,psychic,128,34,3,3,8,4,5,14,3,3,2,25,2,4,4,1,9,4,0
+Dewgong,15,Veneno / Agua,normal,water,83,37,1,12,1,1,11,1,3,2,1,2,2,1,2,1,3,2,0
+Dewott,6,Agua,normal,water,76,26,1,15,1,2,5,4,2,2,3,2,3,1,1,1,5,2,0
+Dialga,1,Dragón / Psíquico,normal,dragon,95,28,6,2,6,1,3,5,2,5,2,5,2,8,2,9,2,7,0
+Diancie,9,Roca,normal,psychic,74,29,2,1,2,1,2,1,2,2,1,11,1,11,1,1,1,3,2
+Diggersby,17,Roca / Lucha,normal,fighting,94,32,2,2,3,2,2,10,5,9,2,3,2,7,1,1,8,3,0
+Diglett,14,Fuego / Siniestro,normal,ground,75,28,2,1,1,1,1,4,3,10,2,2,1,6,3,1,8,1,0
+Ditto,4,Pocos movimientos,normal,unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dodrio,10,Volador,normal,flying,78,37,2,1,1,1,2,1,2,2,11,3,1,1,1,1,9,2,0
+Doduo,10,Volador,normal,flying,72,34,2,1,1,1,2,1,2,2,11,3,1,1,1,1,6,2,0
+Donphan,17,Roca / Lucha,normal,rock,93,41,3,1,2,2,2,4,4,7,2,2,1,10,1,1,3,5,2
+Doublade,17,Roca / Lucha,normal,steel,61,19,1,2,3,1,1,4,2,1,2,4,2,3,5,1,3,7,0
+Dragalge,8,Agua,normal,water,73,19,1,11,4,1,4,2,11,1,2,2,1,1,2,6,2,2,1
+Dragonair,1,Dragón / Psíquico,normal,dragon,80,29,5,8,5,1,7,1,2,1,1,4,1,1,1,10,1,2,0
+Dragonite,1,Dragón / Psíquico,normal,dragon,121,34,7,9,6,1,8,8,2,4,10,5,2,5,2,11,3,4,0
+Drapion,14,Fuego / Siniestro,normal,dark,101,33,3,3,2,1,2,3,10,6,2,3,9,3,3,1,15,2,0
+Dratini,1,Dragón / Psíquico,normal,dragon,80,29,5,8,5,1,7,1,2,1,1,4,1,1,1,10,1,2,0
+Drifblim,15,Veneno / Agua,normal,psychic,97,36,3,2,6,1,3,1,3,2,7,11,2,2,8,1,7,2,0
+Drifloon,15,Veneno / Agua,normal,psychic,93,34,3,2,6,1,3,1,3,2,6,11,2,2,7,1,7,2,0
+Drilbur,14,Fuego / Siniestro,normal,ground,66,23,1,1,1,1,1,4,4,9,2,2,2,5,2,1,3,4,0
+Drowzee,2,Psíquico,normal,psychic,102,32,3,2,3,2,2,10,3,1,1,25,2,1,3,1,9,1,1
+Druddigon,14,Fuego / Siniestro,normal,dark,99,27,7,4,5,1,1,6,5,4,2,2,1,5,2,7,15,5,0
+Ducklett,10,Volador,normal,flying,64,17,1,11,1,1,4,1,2,2,15,2,1,1,1,1,1,2,0
+Dugtrio,14,Fuego / Siniestro,normal,ground,84,31,2,1,1,1,1,4,4,12,2,2,1,7,3,1,9,1,1
+Dunsparce,17,Roca / Lucha,normal,electric,101,36,5,4,7,2,3,3,4,6,2,7,1,6,7,1,4,3,0
+Duosion,2,Psíquico,normal,psychic,80,22,1,2,4,2,1,1,3,1,1,21,3,4,5,1,3,4,1
+Durant,14,Fuego / Siniestro,normal,rock,72,26,1,1,3,2,1,3,2,3,2,3,5,6,2,1,5,6,0
+Dusclops,5,Siniestro / Fantasma,normal,ghost,113,35,4,2,3,1,6,8,2,4,1,13,2,3,14,1,13,1,0
+Dusknoir,5,Siniestro / Fantasma,normal,ghost,114,35,4,2,3,1,6,9,2,4,1,13,2,3,14,1,13,1,0
+Duskull,5,Siniestro / Fantasma,normal,psychic,90,28,3,2,2,1,5,1,2,1,1,13,2,1,13,1,13,1,0
+Dustox,4,Pocos movimientos,normal,bug,78,25,2,1,2,4,1,1,6,1,8,6,10,1,3,2,2,2,1
+Dwebble,9,Roca,normal,rock,74,22,1,2,1,2,1,3,3,8,2,2,5,11,3,1,5,2,0
+Eelektrik,0,Eléctrico,normal,electric,64,19,1,3,12,2,1,1,6,1,3,3,3,1,1,1,3,3,0
+Eelektross,0,Eléctrico,normal,electric,88,25,3,3,14,3,1,7,6,1,3,3,3,3,1,5,4,3,0
+Eevee,3,Psíquico / Eléctrico,normal,ground,76,43,2,2,1,1,1,2,2,4,1,4,1,1,3,1,3,2,2
+Ekans,15,Veneno / Agua,normal,poison,88,32,2,3,1,3,2,1,15,5,1,2,2,3,2,1,11,2,0
+Electabuzz,0,Eléctrico,normal,fighting,94,36,2,2,14,1,2,15,2,2,1,6,2,1,1,2,3,2,0
+Electivire,0,Eléctrico,normal,electric,104,36,3,2,16,1,2,15,2,5,1,6,2,3,1,2,5,2,0
+Electrike,0,Eléctrico,normal,electric,77,30,4,2,15,1,2,1,2,2,1,3,2,1,2,1,6,2,0
+Electrode,0,Eléctrico,normal,electric,70,26,1,2,15,1,1,1,2,1,1,5,2,2,1,1,6,2,0
+Elekid,0,Eléctrico,normal,electric,86,31,2,2,14,1,2,13,2,2,1,6,2,1,1,2,3,1,0
+Elgyem,2,Psíquico,psychic,normal,90,26,1,2,5,2,1,1,2,1,1,31,2,3,3,1,6,2,0
+Emboar,17,Roca / Lucha,normal,fire,102,32,15,2,3,3,1,12,4,5,1,3,1,7,2,1,5,5,0
+Emolga,0,Eléctrico,normal,electric,73,23,1,2,16,1,1,1,2,1,6,4,3,1,2,1,5,2,1
+Empoleon,6,Agua,normal,water,105,36,1,17,1,2,7,3,2,6,7,3,3,4,2,1,5,5,0
+Entei,14,Fuego / Siniestro,normal,fire,82,32,16,2,1,2,1,2,2,4,1,5,1,3,2,1,4,3,0
+Escavalier,14,Fuego / Siniestro,normal,bug,74,29,1,2,1,3,1,6,3,2,3,2,11,1,1,1,4,3,0
+Espeon,3,Psíquico / Eléctrico,normal,psychic,103,49,2,2,1,2,1,2,2,4,1,21,2,1,4,1,3,2,3
+Espurr,2,Psíquico,normal,psychic,76,27,2,2,5,2,1,1,2,1,1,19,2,1,1,1,5,2,1
+Excadrill,14,Fuego / Siniestro,normal,ground,73,26,1,1,2,1,1,5,4,10,2,2,2,5,2,1,3,5,0
+Exeggcute,11,Planta,normal,grass,87,32,2,1,1,15,1,1,4,1,1,14,2,4,3,1,2,1,1
+Exeggutor,11,Planta,normal,grass,97,38,2,1,1,16,1,2,4,1,1,16,2,4,3,1,2,1,1
+Exploud,3,Psíquico / Eléctrico,normal,fighting,114,45,8,5,4,2,7,11,2,4,1,5,1,5,3,2,7,1,1
+Farfetch'd,10,Volador,normal,flying,94,43,3,1,1,2,1,2,3,3,16,3,3,1,3,2,4,3,0
+Fearow,10,Volador,normal,flying,79,34,3,2,1,1,1,1,2,3,13,3,2,1,3,2,5,2,0
+Feebas,8,Agua,normal,water,63,23,1,9,1,1,7,1,2,2,1,5,1,1,2,3,1,2,0
+Fennekin,2,Psíquico,normal,fire,68,23,12,2,1,3,1,2,2,1,1,10,1,1,1,1,4,2,0
+Feraligatr,6,Agua,normal,water,115,40,1,15,1,1,8,11,2,6,2,3,2,4,3,6,7,3,0
+Ferroseed,9,Roca,normal,grass,69,20,2,1,4,9,1,2,4,2,1,3,2,4,2,1,4,7,0
+Ferrothorn,9,Roca,normal,grass,82,26,2,1,5,11,1,2,4,3,2,3,2,5,3,1,4,7,0
+Finneon,8,Agua,normal,water,75,25,1,13,1,1,6,1,2,1,6,4,4,1,2,2,2,1,2
+Flaaffy,0,Eléctrico,normal,electric,91,36,2,2,17,3,1,8,2,2,1,5,2,2,2,1,3,2,0
+Flabebe,11,Planta,normal,grass,69,28,2,2,1,15,1,1,2,1,1,5,1,1,1,1,1,1,4
+Flareon,3,Psíquico / Eléctrico,normal,fire,97,49,14,2,1,1,1,4,3,4,1,4,1,1,3,1,3,2,2
+Fletchinder,10,Volador,normal,fire,60,20,10,1,1,1,1,2,2,1,7,3,2,1,1,1,4,2,0
+Fletchling,10,Volador,normal,flying,55,20,5,1,1,1,1,2,2,1,7,3,2,1,1,1,4,2,0
+Floatzel,8,Agua,normal,water,93,35,1,16,1,1,7,8,2,3,1,3,2,2,1,1,7,2,0
+Floette,11,Planta,normal,grass,69,28,2,2,1,15,1,1,2,1,1,5,1,1,1,1,1,1,4
+Floette-Eternal,11,Planta,normal,grass,70,28,2,2,1,15,1,1,2,1,1,5,1,1,1,1,1,1,5
+Florges,11,Planta,normal,grass,74,30,2,2,1,15,1,1,2,1,1,6,1,1,1,1,1,1,6
+Flygon,1,Dragón / Psíquico,normal,ground,106,34,7,1,2,3,1,4,2,10,8,2,8,5,2,9,5,3,0
+Foongus,11,Planta,normal,grass,65,22,2,2,1,13,1,1,7,1,1,2,2,2,2,1,4,1,0
+Forretress,17,Roca / Lucha,normal,ground,92,35,2,1,4,3,1,4,4,7,1,6,6,7,1,1,2,7,0
+Fraxure,14,Fuego / Siniestro,normal,dragon,78,29,3,3,2,1,1,6,3,2,2,2,2,2,2,9,7,2,0
+Frillish,8,Agua,normal,water,78,21,2,13,2,4,6,1,5,1,1,7,1,1,7,1,3,1,1
+Froakie,8,Agua,normal,water,74,23,1,11,1,2,4,3,3,3,4,3,2,4,3,1,5,1,0
+Frogadier,8,Agua,normal,water,78,23,1,11,1,2,5,4,4,3,4,3,2,4,3,1,6,1,0
+Froslass,5,Siniestro / Fantasma,normal,dark,94,32,1,3,5,1,11,2,2,3,1,7,2,2,8,1,12,1,0
+Furfrou,3,Psíquico / Eléctrico,normal,dark,72,33,2,3,4,3,1,2,2,3,1,4,2,1,1,1,5,2,2
+Furret,14,Fuego / Siniestro,normal,fighting,106,46,4,6,6,3,4,8,2,3,1,4,3,2,3,1,7,2,1
+Gabite,1,Dragón / Psíquico,normal,dragon,82,29,5,2,1,1,1,2,2,9,2,2,2,6,2,10,2,4,0
+Gallade,2,Psíquico,normal,psychic,147,48,4,2,6,4,3,13,3,4,2,26,4,4,7,2,9,1,5
+Galvantula,4,Pocos movimientos,normal,bug,77,22,1,2,12,3,1,1,6,1,2,4,13,1,1,1,5,1,0
+Garbodor,15,Veneno / Agua,normal,poison,78,25,2,2,2,4,2,3,12,4,1,4,2,5,3,1,5,1,0
+Gardevoir,2,Psíquico,normal,psychic,117,40,4,2,6,4,3,2,2,2,1,26,2,1,7,1,7,1,6
+Gastly,5,Siniestro / Fantasma,normal,ghost,94,27,4,2,3,3,4,1,7,1,1,11,2,1,13,1,11,1,1
+Gastrodon,15,Veneno / Agua,normal,water,89,31,1,10,1,1,6,3,7,9,1,4,3,6,2,1,2,1,0
+Genesect,4,Pocos movimientos,normal,bug,90,27,4,1,9,4,3,1,3,1,3,8,10,2,2,1,3,8,0
+Gengar,5,Siniestro / Fantasma,normal,ghost,118,36,4,2,4,3,4,10,8,1,1,12,2,1,15,1,12,1,1
+Geodude,17,Roca / Lucha,normal,rock,89,31,6,1,2,1,1,10,2,8,1,2,1,13,2,1,3,4,0
+Gible,1,Dragón / Psíquico,normal,ground,81,29,5,2,1,1,1,2,2,9,2,2,2,6,2,9,2,4,0
+Gigalith,9,Roca,normal,rock,68,24,1,1,1,2,1,3,2,7,1,3,1,11,2,1,1,6,0
+Girafarig,2,Psíquico,normal,psychic,107,41,2,2,6,3,1,3,2,4,1,23,2,1,4,1,8,2,1
+Giratina,1,Dragón / Psíquico,normal,psychic,101,29,3,3,6,2,2,3,2,5,6,9,3,3,9,8,4,4,0
+Giratina-Origin,1,Dragón / Psíquico,normal,psychic,101,29,3,3,6,2,2,3,2,5,6,9,3,3,9,8,4,4,0
+Glaceon,3,Psíquico / Eléctrico,normal,ice,94,47,2,4,1,1,9,3,2,4,1,6,2,1,3,1,3,2,2
+Glalie,7,Hielo,normal,ice,84,34,1,3,1,1,12,1,2,4,1,3,2,2,4,1,9,3,0
+Glameow,5,Siniestro / Fantasma,normal,dark,88,37,2,3,4,1,1,2,2,4,2,4,3,1,3,1,14,2,2
+Gligar,14,Fuego / Siniestro,normal,dark,103,33,2,3,1,1,1,5,8,7,7,5,6,7,1,1,11,4,0
+Gliscor,14,Fuego / Siniestro,normal,dark,110,35,3,3,2,1,2,5,8,8,8,5,6,7,1,1,11,4,0
+Gloom,11,Planta,normal,grass,78,29,2,1,1,19,1,2,7,1,1,2,2,1,1,1,2,1,4
+Gogoat,12,Planta,normal,grass,74,26,2,3,2,13,1,5,2,4,3,3,1,3,1,1,2,2,0
+Golbat,10,Volador,normal,flying,88,28,3,2,1,2,2,2,6,1,13,4,3,1,6,2,10,2,0
+Goldeen,8,Agua,normal,water,75,27,1,13,1,1,6,1,3,5,3,4,4,1,1,1,2,1,0
+Golduck,8,Agua,normal,psychic,116,39,1,15,1,2,6,12,3,5,2,16,3,1,3,1,3,2,1
+Golem,17,Roca / Lucha,normal,rock,98,35,6,1,2,1,1,11,2,8,1,2,3,13,2,1,3,6,0
+Golett,17,Roca / Lucha,normal,fighting,80,19,2,2,3,2,4,12,2,6,1,6,2,6,6,1,3,3,0
+Golurk,17,Roca / Lucha,normal,fighting,91,21,2,2,5,3,4,12,2,6,2,7,2,7,7,1,3,5,0
+Goodra,14,Fuego / Siniestro,normal,fire,79,22,6,6,5,3,4,6,6,3,1,2,2,2,2,6,1,2,0
+Goomy,14,Fuego / Siniestro,normal,poison,57,18,2,5,3,2,1,2,6,1,1,2,2,2,2,5,1,2,0
+Gorebyss,8,Agua,normal,water,81,29,1,16,1,1,5,1,3,3,2,7,3,1,3,1,1,2,1
+Gothita,2,Psíquico,normal,psychic,91,27,1,2,5,3,1,1,2,1,1,24,2,3,2,1,13,1,1
+Gothitelle,2,Psíquico,normal,psychic,97,29,1,2,5,3,1,4,2,1,1,25,2,3,2,1,13,1,1
+Gothorita,2,Psíquico,normal,psychic,92,27,1,2,5,3,1,1,2,1,1,25,2,3,2,1,13,1,1
+Gourgeist,12,Planta,normal,grass,81,22,7,1,2,11,1,3,3,1,1,10,1,2,9,1,4,2,0
+Gourgeist-Large,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gourgeist-Small,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gourgeist-Super,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Granbull,3,Psíquico / Eléctrico,normal,fighting,118,43,8,3,8,2,3,13,3,5,1,3,1,4,3,2,11,2,3
+Graveler,17,Roca / Lucha,normal,rock,89,31,6,1,2,1,1,10,2,8,1,2,1,13,2,1,3,4,0
+Greninja,8,Agua,normal,water,90,26,1,13,1,2,6,5,4,4,4,4,2,4,4,1,8,1,0
+Grimer,15,Veneno / Agua,normal,poison,94,33,6,2,5,2,3,3,12,4,1,3,2,3,6,1,7,1,0
+Grotle,12,Planta,normal,grass,82,33,2,2,1,16,1,3,2,4,1,5,1,3,2,1,3,2,0
+Grovyle,12,Planta,normal,grass,102,38,2,1,2,18,1,13,2,4,3,3,3,3,1,2,4,2,0
+Growlithe,14,Fuego / Siniestro,normal,fire,81,33,15,1,2,1,1,5,2,3,2,3,1,1,1,2,5,2,1
+Grumpig,2,Psíquico,normal,psychic,106,36,3,2,5,3,3,9,2,3,2,21,2,2,3,1,7,2,0
+Gulpin,15,Veneno / Agua,normal,poison,89,33,3,3,3,5,3,5,14,2,1,4,2,2,5,1,2,1,0
+Gurdurr,13,Lucha,normal,fighting,83,28,3,2,2,2,2,20,3,2,1,2,1,7,1,1,5,1,0
+Gyarados,1,Dragón / Psíquico,normal,water,93,32,4,11,4,1,7,2,2,3,2,2,1,3,2,7,7,3,0
+Happiny,3,Psíquico / Eléctrico,normal,psychic,81,35,5,3,3,4,3,4,2,3,1,7,1,2,2,1,2,1,2
+Hariyama,13,Lucha,normal,fighting,107,40,3,5,2,1,2,23,3,6,1,3,1,6,1,1,5,4,0
+Haunter,5,Siniestro / Fantasma,normal,ghost,98,27,4,2,3,3,4,1,8,1,1,11,2,1,15,1,12,1,1
+Hawlucha,13,Lucha,normal,fighting,94,27,3,2,2,2,1,16,3,3,11,5,3,4,1,2,6,3,0
+Haxorus,14,Fuego / Siniestro,normal,dragon,86,30,3,4,2,2,1,8,3,4,2,2,2,3,2,9,7,2,0
+Heatmor,15,Veneno / Agua,normal,fire,85,27,11,2,2,3,1,7,4,2,2,3,2,2,4,1,11,1,0
+Heliolisk,0,Eléctrico,normal,electric,80,25,2,3,17,2,1,4,2,4,1,4,3,4,1,3,2,2,0
+Helioptile,0,Eléctrico,normal,electric,71,22,1,3,15,2,1,2,2,4,1,4,3,4,1,2,2,2,0
+Heracross,14,Fuego / Siniestro,normal,fighting,95,39,2,2,1,2,1,14,3,4,2,2,6,6,2,1,6,2,0
+Herdier,0,Eléctrico,normal,electric,76,31,3,3,6,1,2,3,2,4,2,2,1,2,3,1,6,1,3
+Hippopotas,15,Veneno / Agua,normal,ground,68,29,2,2,1,1,1,4,2,9,1,2,1,5,2,1,3,2,0
+Hippowdon,15,Veneno / Agua,normal,ground,75,31,3,2,2,1,2,4,2,9,1,2,1,6,2,1,3,3,0
+Hitmonchan,13,Lucha,normal,fighting,93,38,3,2,2,1,2,21,2,4,1,4,1,4,1,1,4,2,0
+Hitmonlee,13,Lucha,normal,fighting,98,39,3,2,1,1,1,22,3,4,2,4,1,5,1,1,6,2,0
+Hitmontop,13,Lucha,normal,fighting,92,37,2,2,1,1,1,17,2,6,2,4,1,6,1,2,4,3,0
+Honchkrow,10,Volador,normal,dark,99,28,4,2,2,1,3,2,2,2,15,6,1,1,8,2,18,2,0
+Honedge,17,Roca / Lucha,normal,steel,61,19,1,2,3,1,1,4,2,1,2,4,2,3,5,1,3,7,0
+Ho-Oh,10,Volador,normal,flying,99,30,10,2,6,3,1,2,2,5,12,10,2,3,4,2,2,3,0
+Hoopa,2,Psíquico,psychic,normal,96,22,3,2,6,3,2,6,3,1,1,23,2,1,5,2,13,1,0
+Hoopa-Unbound,2,Psíquico,psychic,normal,96,22,3,2,6,3,2,6,3,1,1,23,2,1,5,2,13,1,0
+Hoothoot,10,Volador,normal,flying,87,32,3,2,1,1,1,1,2,2,14,13,2,1,5,2,3,2,0
+Hoppip,11,Planta,normal,grass,77,28,2,1,1,17,1,1,3,1,4,5,5,1,1,1,2,1,2
+Horsea,8,Agua,normal,water,75,27,1,15,1,1,6,1,3,1,2,3,2,1,1,7,1,2,0
+Houndoom,5,Siniestro / Fantasma,normal,dark,97,34,13,1,2,2,1,4,4,2,1,4,1,1,5,1,18,2,1
+Houndour,5,Siniestro / Fantasma,normal,dark,94,31,13,1,2,2,1,4,4,2,1,4,1,1,5,1,18,2,1
+Huntail,8,Agua,normal,water,81,30,1,15,1,1,6,1,3,3,2,3,2,2,2,1,6,2,0
+Hydreigon,1,Dragón / Psíquico,normal,dark,101,31,7,4,5,1,2,4,2,4,5,4,3,5,3,8,9,4,0
+Hypno,2,Psíquico,normal,psychic,107,35,3,2,3,2,2,11,3,1,1,25,2,1,3,1,10,1,1
+Igglybuff,3,Psíquico / Eléctrico,normal,psychic,97,44,5,3,4,3,2,3,2,3,2,10,1,2,3,1,5,1,3
+Illumise,3,Psíquico / Eléctrico,normal,electric,96,35,2,3,7,3,2,7,2,2,6,4,7,1,4,1,5,1,4
+Inkay,5,Siniestro / Fantasma,normal,dark,78,24,3,2,2,1,1,2,2,1,4,13,1,2,3,1,15,1,0
+Ivysaur,11,Planta,normal,grass,92,39,2,1,1,22,1,2,6,2,1,4,3,1,2,1,2,1,1
+Jellicent,8,Agua,normal,water,80,23,2,13,2,4,6,1,5,1,1,7,1,1,7,1,3,1,1
+Jigglypuff,3,Psíquico / Eléctrico,normal,psychic,122,49,6,3,8,3,5,9,2,3,2,10,1,3,3,1,7,2,5
+Jirachi,2,Psíquico,normal,psychic,107,34,3,3,7,3,3,4,2,2,2,21,3,4,3,2,2,6,3
+Jolteon,3,Psíquico / Eléctrico,normal,electric,98,48,2,2,12,1,1,4,2,4,1,6,3,1,3,1,3,2,2
+Joltik,4,Pocos movimientos,normal,bug,73,20,1,2,11,3,1,1,6,1,2,4,12,1,1,1,5,1,0
+Jumpluff,11,Planta,normal,grass,80,31,2,1,1,17,1,1,3,1,4,5,5,1,1,1,2,1,2
+Jynx,3,Psíquico / Eléctrico,normal,psychic,116,45,1,3,1,3,9,10,2,2,1,20,2,1,4,1,8,1,2
+Kabuto,6,Agua,normal,water,84,28,1,10,1,4,6,2,2,6,2,2,1,9,2,1,4,3,0
+Kabutops,6,Agua,normal,water,104,38,1,12,1,4,6,6,2,6,2,2,3,10,2,1,5,3,0
+Kadabra,2,Psíquico,psychic,normal,105,30,3,2,5,3,2,6,2,1,1,31,2,1,3,1,9,2,1
+Kakuna,4,Pocos movimientos,bug,normal,6,1,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,1,0
+Kangaskhan,14,Fuego / Siniestro,normal,fighting,124,52,6,6,5,2,7,14,2,5,2,2,2,4,4,2,7,2,0
+Karrablast,14,Fuego / Siniestro,normal,bug,65,27,1,2,1,3,1,2,3,2,3,2,9,1,1,1,4,2,0
+Kecleon,14,Fuego / Siniestro,normal,fighting,126,47,6,4,7,3,5,10,2,3,2,10,2,6,6,1,10,2,0
+Keldeo,8,Agua,normal,water,73,29,1,9,1,1,3,9,3,1,3,4,2,2,1,1,2,1,0
+Kingdra,8,Agua,normal,water,82,31,1,15,1,1,6,1,3,1,2,3,2,1,1,8,2,3,0
+Kingler,6,Agua,normal,water,91,35,1,11,1,1,6,4,2,5,1,5,3,5,1,1,6,3,0
+Kirlia,2,Psíquico,normal,psychic,110,37,4,2,6,3,3,1,2,2,1,25,2,1,7,1,7,1,5
+Klang,0,Eléctrico,normal,electric,61,19,1,1,12,1,1,2,2,1,1,4,2,3,1,1,1,8,0
+Klefki,2,Psíquico,normal,psychic,70,23,2,2,3,1,1,1,2,2,1,11,1,1,2,1,5,5,6
+Klink,0,Eléctrico,normal,electric,61,19,1,1,12,1,1,2,2,1,1,4,2,3,1,1,1,8,0
+Klinklang,0,Eléctrico,normal,electric,65,20,1,1,14,1,1,2,2,1,1,5,2,3,1,1,1,8,0
+Koffing,15,Veneno / Agua,normal,poison,82,28,6,2,4,1,2,1,11,1,1,4,2,2,6,1,8,2,0
+Krabby,6,Agua,normal,water,87,33,1,11,1,1,6,4,2,5,1,5,3,4,1,1,5,3,0
+Kricketot,4,Pocos movimientos,normal,bug,9,5,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0
+Kricketune,4,Pocos movimientos,normal,bug,75,35,2,2,1,1,1,4,2,2,2,2,12,1,1,1,5,1,0
+Krokorok,14,Fuego / Siniestro,normal,dark,90,27,3,2,2,2,1,8,3,8,1,2,1,6,3,1,18,2,0
+Krookodile,14,Fuego / Siniestro,normal,dark,102,30,3,2,2,2,1,11,3,8,2,2,1,7,3,5,18,2,0
+Kyogre,8,Agua,normal,water,82,29,1,15,5,1,7,3,2,4,1,3,2,4,1,1,1,2,0
+Kyurem,1,Dragón / Psíquico,normal,dragon,77,22,2,2,1,1,6,3,2,2,3,7,2,5,3,8,4,4,0
+Kyurem-Black,1,Dragón / Psíquico,normal,dragon,79,22,2,2,2,1,7,3,2,2,3,7,2,5,3,8,4,4,0
+Kyurem-White,1,Dragón / Psíquico,normal,dragon,79,22,3,2,1,1,7,3,2,2,3,7,2,5,3,8,4,4,0
+Lairon,17,Roca / Lucha,normal,rock,87,32,2,3,3,1,1,4,2,6,2,2,2,10,4,2,2,9,0
+Lampent,5,Siniestro / Fantasma,normal,fire,79,20,13,1,2,3,2,1,6,1,1,10,1,1,8,1,7,1,0
+Landorus,9,Roca,normal,rock,74,19,1,1,1,2,1,7,4,7,2,8,2,9,1,2,5,2,0
+Landorus-Therian,9,Roca,normal,rock,74,19,1,1,1,2,1,7,4,7,2,8,2,9,1,2,5,2,0
+Lanturn,8,Agua,normal,water,88,29,1,16,14,1,6,1,2,1,2,5,2,1,2,1,2,1,1
+Lapras,7,Hielo,normal,water,95,36,1,11,4,1,11,2,2,4,1,6,2,2,4,4,1,3,0
+Larvesta,4,Pocos movimientos,normal,fire,66,20,12,1,3,3,1,1,2,1,2,7,8,1,1,1,1,1,0
+Larvitar,17,Roca / Lucha,normal,dark,83,30,2,2,1,1,1,5,2,6,1,2,1,9,3,3,10,4,0
+Latias,1,Dragón / Psíquico,normal,psychic,112,35,2,8,6,4,3,1,2,4,6,21,2,2,3,7,3,2,1
+Latios,1,Dragón / Psíquico,normal,psychic,107,32,2,7,6,4,3,1,2,4,6,20,2,2,3,8,3,2,0
+Leafeon,3,Psíquico / Eléctrico,normal,grass,100,50,2,2,1,13,1,3,2,4,2,4,3,1,3,1,4,2,2
+Leavanny,4,Pocos movimientos,normal,grass,90,35,2,1,2,12,1,1,3,1,3,8,10,1,2,1,4,3,0
+Ledian,4,Pocos movimientos,normal,fighting,91,37,2,1,2,3,2,9,2,3,6,6,8,2,2,1,4,1,0
+Ledyba,4,Pocos movimientos,normal,bug,85,34,2,1,2,3,2,7,2,2,6,6,8,2,2,1,4,1,0
+Lickilicky,17,Roca / Lucha,normal,fighting,121,50,6,7,5,3,5,10,3,6,1,5,1,5,5,2,4,3,0
+Lickitung,3,Psíquico / Eléctrico,normal,fighting,117,48,6,7,5,3,5,9,3,6,1,5,1,5,5,2,4,2,0
+Liepard,5,Siniestro / Fantasma,normal,dark,86,31,2,2,2,3,1,2,3,2,2,5,2,1,4,1,19,2,2
+Lileep,15,Veneno / Agua,normal,grass,82,32,2,2,1,11,1,1,5,3,1,5,3,8,4,1,1,1,0
+Lilligant,11,Planta,normal,grass,75,31,2,1,1,20,1,1,2,1,1,6,2,1,1,1,1,1,1
+Lillipup,0,Eléctrico,normal,electric,73,30,3,2,6,1,2,3,2,4,2,2,1,2,3,1,5,1,3
+Linoone,14,Fuego / Siniestro,normal,electric,104,49,2,5,6,3,4,2,3,6,1,3,3,2,3,1,6,2,3
+Litleo,14,Fuego / Siniestro,normal,fire,71,28,12,2,2,2,1,2,2,3,1,2,1,1,1,1,8,2,0
+Litwick,5,Siniestro / Fantasma,normal,fire,79,20,13,1,2,3,2,1,6,1,1,10,1,1,8,1,7,1,0
+Lombre,6,Agua,normal,water,97,34,3,13,2,12,7,7,2,2,1,3,1,1,2,1,5,1,0
+Lopunny,3,Psíquico / Eléctrico,normal,fighting,109,46,3,3,7,3,4,12,2,5,2,7,2,1,2,1,4,2,3
+Lotad,11,Planta,normal,grass,76,30,2,8,1,12,6,2,2,1,1,3,1,1,2,1,2,1,0
+Loudred,3,Psíquico / Eléctrico,normal,fighting,101,41,7,3,3,2,5,10,2,4,1,5,1,5,3,1,6,1,1
+Lucario,13,Lucha,normal,fighting,116,36,3,3,3,1,2,23,3,6,1,8,2,4,3,3,8,7,0
+Ludicolo,6,Agua,normal,water,106,40,3,13,2,12,7,10,2,2,1,3,1,1,2,1,5,1,0
+Lugia,1,Dragón / Psíquico,normal,psychic,114,31,2,10,6,2,6,2,2,5,12,16,2,3,4,5,2,4,0
+Lumineon,8,Agua,normal,water,77,27,1,13,1,1,6,1,2,1,6,4,4,1,2,2,2,1,2
+Lunatone,2,Psíquico,normal,psychic,96,32,1,2,2,2,4,1,2,4,2,21,2,11,2,1,2,3,2
+Luvdisc,8,Agua,normal,water,70,28,1,14,1,1,5,1,2,2,2,4,1,1,1,1,1,1,3
+Luxio,0,Eléctrico,normal,electric,75,28,2,2,14,1,2,2,2,2,1,3,3,1,1,1,7,2,1
+Luxray,0,Eléctrico,normal,electric,79,30,2,2,15,1,2,3,2,2,1,3,3,1,1,1,7,2,1
+Machamp,13,Lucha,normal,fighting,106,37,6,2,2,1,2,23,3,5,1,6,1,6,1,2,5,3,0
+Machoke,13,Lucha,normal,fighting,102,35,6,2,2,1,2,23,3,5,1,6,1,4,1,2,5,3,0
+Machop,13,Lucha,normal,fighting,102,35,6,2,2,1,2,23,3,5,1,6,1,4,1,2,5,3,0
+Magby,14,Fuego / Siniestro,normal,fire,86,30,15,1,2,1,1,11,5,2,1,5,1,1,2,2,4,2,0
+Magcargo,15,Veneno / Agua,normal,fire,95,37,13,1,1,2,1,2,5,5,1,6,2,11,2,1,2,3,0
+Magikarp,4,Pocos movimientos,normal,water,7,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Magmar,14,Fuego / Siniestro,normal,fire,94,35,15,1,2,1,1,14,5,2,1,5,1,1,2,2,4,2,0
+Magmortar,14,Fuego / Siniestro,normal,fire,102,35,15,1,3,2,1,14,5,4,1,5,1,3,2,2,6,2,0
+Magnemite,0,Eléctrico,normal,electric,72,26,2,2,15,1,1,1,2,1,1,6,2,2,1,1,1,7,0
+Magneton,0,Eléctrico,normal,electric,77,30,2,2,16,1,1,1,2,1,1,6,2,2,1,1,1,7,0
+Magnezone,0,Eléctrico,normal,electric,82,31,2,2,17,1,1,1,2,1,1,8,2,2,1,1,1,8,0
+Makuhita,13,Lucha,normal,fighting,101,38,3,4,2,1,2,23,3,6,1,3,1,5,1,1,4,3,0
+Malamar,5,Siniestro / Fantasma,normal,dark,84,27,3,2,2,1,1,3,2,1,4,14,2,2,3,1,15,1,0
+Mamoswine,7,Hielo,normal,ice,94,37,1,2,1,1,13,3,2,10,2,5,1,7,2,1,3,2,1
+Manaphy,8,Agua,normal,water,80,26,1,13,1,3,5,1,3,2,2,8,4,2,2,1,3,1,2
+Mandibuzz,10,Volador,normal,dark,79,24,4,2,1,1,1,2,2,2,12,2,2,2,2,1,16,3,0
+Manectric,0,Eléctrico,normal,electric,82,33,5,2,16,1,2,1,2,2,1,3,2,1,2,1,6,2,0
+Mankey,14,Fuego / Siniestro,normal,fighting,115,43,4,2,4,2,2,19,4,5,3,4,2,4,2,3,10,2,0
+Mantine,8,Agua,normal,water,93,29,1,15,1,3,6,1,3,5,9,6,3,4,2,2,1,2,0
+Mantyke,8,Agua,normal,water,78,24,1,13,1,1,6,1,2,5,8,5,2,3,2,2,1,1,0
+Maractus,11,Planta,normal,grass,72,23,2,1,1,22,1,2,3,2,4,2,2,1,1,1,3,1,0
+Mareep,0,Eléctrico,normal,electric,77,33,1,2,15,3,1,1,2,2,1,5,2,2,2,1,2,2,0
+Marill,8,Agua,normal,water,105,44,1,18,1,2,6,8,2,3,2,5,1,2,1,1,4,2,2
+Marowak,14,Fuego / Siniestro,normal,fighting,107,44,6,1,2,1,4,12,2,9,2,2,2,8,1,2,4,4,1
+Marshtomp,6,Agua,normal,water,103,35,1,13,1,1,8,9,4,9,1,4,1,8,2,1,3,2,0
+Masquerain,4,Pocos movimientos,normal,bug,95,30,2,9,1,5,6,1,2,4,8,5,12,1,4,2,2,1,0
+Mawile,15,Veneno / Agua,normal,dark,117,41,6,2,5,3,5,9,4,2,1,3,1,7,3,1,16,5,3
+Medicham,13,Lucha,normal,psychic,111,42,3,2,2,3,2,19,3,2,1,20,2,3,2,1,2,2,0
+Meditite,13,Lucha,normal,psychic,108,40,3,2,2,2,2,19,3,2,1,20,2,3,2,1,2,2,0
+Meganium,11,Planta,normal,grass,91,36,2,1,1,22,1,3,3,4,1,6,2,2,1,3,1,2,0
+Meloetta,2,Psíquico,normal,psychic,104,33,3,2,7,3,2,11,2,1,2,19,3,2,3,2,7,1,1
+Meowstic-F,2,Psíquico,normal,psychic,88,30,2,2,5,3,1,2,2,2,1,22,2,1,2,1,6,2,2
+Meowstic-M,2,Psíquico,normal,psychic,88,30,2,2,5,2,1,3,2,2,1,21,2,1,2,1,6,2,3
+Meowth,5,Siniestro / Fantasma,normal,dark,102,46,2,3,4,3,2,1,3,3,2,5,2,1,5,1,16,2,1
+Metagross,17,Roca / Lucha,normal,psychic,97,33,2,2,3,2,3,6,3,4,2,13,3,7,2,1,3,8,0
+Metang,17,Roca / Lucha,normal,psychic,94,31,2,2,3,2,3,5,3,4,2,13,3,7,2,1,3,8,0
+Metapod,4,Pocos movimientos,normal,bug,7,3,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+Mew,2,Psíquico,normal,psychic,236,62,10,10,12,9,8,16,8,7,12,23,10,10,7,7,17,7,1
+Mewtwo,2,Psíquico,normal,psychic,137,34,7,4,8,4,8,14,3,4,3,28,2,5,3,1,7,2,0
+Mienfoo,13,Lucha,normal,fighting,85,28,2,2,1,2,1,18,3,2,4,7,2,4,1,2,5,1,0
+Mienshao,13,Lucha,normal,fighting,88,30,2,2,1,2,1,18,3,2,4,7,2,5,1,2,5,1,0
+Mightyena,5,Siniestro / Fantasma,normal,dark,87,39,4,2,2,1,2,3,3,4,1,2,1,1,4,1,14,2,1
+Milotic,8,Agua,normal,water,86,32,1,14,1,1,8,1,3,4,1,6,1,1,2,5,1,3,1
+Miltank,3,Psíquico / Eléctrico,normal,fighting,105,42,3,5,6,2,5,12,3,4,1,4,1,6,3,1,3,4,0
+Mime Jr.,2,Psíquico,normal,psychic,98,32,2,2,6,3,2,5,2,2,1,24,3,1,3,1,7,1,1
+Minccino,3,Psíquico / Eléctrico,normal,dark,76,36,2,3,4,3,1,2,3,3,1,3,2,1,1,1,5,2,3
+Minun,0,Eléctrico,normal,electric,92,41,1,2,16,2,1,4,2,3,1,4,2,2,1,1,5,2,2
+Misdreavus,5,Siniestro / Fantasma,normal,psychic,99,33,4,2,6,1,2,1,2,1,2,15,1,2,12,1,12,1,1
+Mismagius,5,Siniestro / Fantasma,normal,psychic,106,36,5,2,6,3,2,1,2,1,2,15,1,2,13,1,12,1,1
+Moltres,10,Volador,normal,flying,74,22,11,2,1,2,1,2,2,2,13,4,2,3,2,2,1,2,0
+Monferno,14,Fuego / Siniestro,normal,fire,107,37,16,1,2,2,1,16,4,3,3,3,2,5,2,2,6,2,0
+Mothim,4,Pocos movimientos,normal,bug,77,24,2,2,2,4,1,1,4,2,9,7,10,1,3,2,2,1,0
+Mr. Mime,2,Psíquico,normal,psychic,128,40,3,2,7,5,3,10,2,2,2,28,3,2,4,1,9,2,3
+Mudkip,6,Agua,normal,water,90,33,1,12,1,1,7,5,4,6,1,4,1,7,2,1,2,2,0
+Muk,15,Veneno / Agua,normal,poison,102,36,6,2,5,2,3,7,12,4,1,3,2,3,6,1,8,1,0
+Munchlax,15,Veneno / Agua,normal,fighting,103,40,6,5,5,3,5,7,4,4,1,5,1,5,4,2,4,1,1
+Munna,2,Psíquico,normal,psychic,83,26,1,2,4,3,1,1,2,1,1,25,2,3,4,1,2,2,2
+Murkrow,10,Volador,normal,dark,93,26,3,2,2,1,3,1,2,2,15,6,1,1,8,2,16,2,0
+Musharna,2,Psíquico,normal,psychic,85,28,1,2,4,3,1,1,2,1,1,25,2,3,4,1,2,2,2
+Natu,2,Psíquico,normal,psychic,101,30,3,2,2,4,2,1,2,1,10,24,4,1,6,2,4,2,1
+Nidoking,14,Fuego / Siniestro,normal,fighting,131,43,6,6,5,1,6,11,10,7,2,4,3,8,3,4,10,2,0
+Nidoqueen,14,Fuego / Siniestro,normal,dark,132,43,6,6,5,1,6,11,11,7,2,2,2,7,3,4,13,2,1
+Nidoran-F,14,Fuego / Siniestro,normal,poison,87,36,2,3,4,1,3,4,10,3,2,2,1,1,2,1,9,2,1
+Nidoran-M,14,Fuego / Siniestro,normal,poison,85,35,2,3,4,1,3,4,9,4,2,4,1,2,2,1,6,2,0
+Nidorina,14,Fuego / Siniestro,normal,poison,87,36,2,3,4,1,3,4,10,3,2,2,1,1,2,1,9,2,1
+Nidorino,14,Fuego / Siniestro,normal,poison,85,35,2,3,4,1,3,4,9,4,2,4,1,2,2,1,6,2,0
+Nincada,4,Pocos movimientos,normal,bug,66,24,2,1,1,3,1,2,2,4,3,2,9,2,3,1,4,2,0
+Ninetales,5,Siniestro / Fantasma,normal,fire,90,34,14,1,1,3,1,1,2,2,1,11,1,1,6,1,6,2,2
+Ninjask,4,Pocos movimientos,normal,bug,83,34,2,1,1,3,1,2,2,4,6,3,10,2,4,1,5,2,0
+Noctowl,10,Volador,normal,flying,89,34,3,2,1,1,1,1,2,2,14,13,2,1,5,2,3,2,0
+Noibat,10,Volador,normal,flying,78,23,3,2,2,2,1,2,2,1,12,5,4,1,3,4,8,3,0
+Noivern,10,Volador,normal,flying,86,26,4,2,2,2,1,3,2,1,12,5,4,1,3,5,9,3,1
+Nosepass,9,Roca,normal,rock,87,30,3,1,11,1,2,3,2,6,1,4,1,14,1,1,3,2,1
+Numel,15,Veneno / Agua,normal,fire,84,37,12,1,1,1,1,2,2,8,1,3,1,7,2,1,1,2,1
+Nuzleaf,12,Planta,normal,grass,101,43,2,1,1,12,1,6,2,3,2,5,2,4,3,1,12,1,0
+Octillery,8,Agua,normal,water,94,31,5,15,3,4,6,2,6,3,2,4,3,3,1,1,3,2,0
+Oddish,11,Planta,normal,grass,75,29,2,1,1,18,1,1,7,1,1,2,2,1,1,1,1,1,4
+Omanyte,6,Agua,normal,water,86,30,1,14,1,1,7,2,3,4,1,2,1,10,1,1,4,3,0
+Omastar,6,Agua,normal,water,93,34,1,14,1,1,7,3,3,5,1,2,1,11,1,1,4,3,0
+Onix,17,Roca / Lucha,normal,rock,88,36,2,1,1,1,1,2,2,9,1,2,1,12,2,5,4,6,0
+Oshawott,6,Agua,normal,water,76,26,1,15,1,2,5,4,2,2,3,2,3,1,1,1,5,2,0
+Pachirisu,0,Eléctrico,normal,electric,84,35,1,2,16,3,1,1,3,3,1,3,2,2,1,1,5,2,2
+Palkia,1,Dragón / Psíquico,normal,water,97,27,5,9,5,1,5,7,2,5,2,5,2,7,2,9,3,1,0
+Palpitoad,8,Agua,normal,water,65,22,1,10,1,1,4,3,5,6,2,2,2,2,1,1,1,1,0
+Pancham,14,Fuego / Siniestro,normal,fighting,98,34,3,3,2,2,2,17,4,3,2,3,1,4,3,2,11,2,0
+Pangoro,14,Fuego / Siniestro,normal,fighting,112,36,3,3,2,2,2,19,5,4,2,3,3,4,3,3,16,2,0
+Panpour,6,Agua,normal,water,88,26,1,13,1,2,6,5,4,3,2,3,1,2,4,1,11,2,1
+Pansage,12,Planta,normal,grass,85,28,2,1,1,14,1,5,4,2,2,3,1,2,4,1,11,2,1
+Pansear,14,Fuego / Siniestro,normal,fire,84,27,12,1,1,3,1,5,4,2,2,4,1,2,4,1,11,2,1
+Paras,11,Planta,normal,grass,90,32,2,1,1,13,1,4,6,3,2,5,9,2,1,1,5,2,0
+Parasect,11,Planta,normal,grass,92,34,2,1,1,13,1,4,6,3,2,5,9,2,1,1,5,2,0
+Patrat,14,Fuego / Siniestro,normal,dark,73,33,2,3,3,3,1,4,3,3,1,4,1,1,2,1,6,2,0
+Pawniard,14,Fuego / Siniestro,normal,dark,88,24,1,2,3,2,1,8,3,2,2,4,3,5,3,2,18,5,0
+Pelipper,10,Volador,normal,flying,91,29,1,12,2,2,6,1,3,2,14,3,2,2,2,2,6,2,0
+Persian,5,Siniestro / Fantasma,normal,dark,109,49,2,3,4,3,2,1,3,3,2,5,2,2,5,1,18,2,2
+Petilil,11,Planta,normal,grass,66,27,2,1,1,18,1,1,2,1,1,4,1,1,1,1,1,1,1
+Phanpy,17,Roca / Lucha,normal,rock,76,34,2,1,1,2,2,4,3,6,1,2,1,8,1,1,2,3,2
+Phantump,12,Planta,normal,grass,80,21,3,1,1,12,1,2,4,3,1,11,1,2,10,1,5,1,0
+Phione,8,Agua,normal,water,68,23,1,13,1,2,5,1,3,2,2,2,3,2,1,1,3,1,2
+Pichu,3,Psíquico / Eléctrico,normal,electric,90,43,1,3,14,2,1,4,2,2,1,3,2,2,1,1,3,2,3
+Pidgeot,10,Volador,normal,flying,74,28,3,2,1,1,1,1,2,3,16,3,2,1,2,2,4,2,0
+Pidgeotto,10,Volador,normal,flying,72,26,3,2,1,1,1,1,2,3,16,3,2,1,2,2,4,2,0
+Pidgey,10,Volador,normal,flying,71,25,3,2,1,1,1,1,2,3,16,3,2,1,2,2,4,2,0
+Pidove,10,Volador,normal,flying,61,24,3,2,1,1,1,2,2,1,11,3,2,1,1,1,3,2,0
+Pignite,17,Roca / Lucha,normal,fire,91,28,14,1,3,3,1,10,4,4,1,3,1,6,2,1,5,4,0
+Pikachu,3,Psíquico / Eléctrico,normal,electric,116,56,1,3,18,2,1,8,2,3,2,5,2,2,1,1,4,2,3
+Piloswine,7,Hielo,normal,ice,88,33,1,2,1,1,13,3,2,10,2,5,1,7,2,1,2,1,1
+Pineco,17,Roca / Lucha,normal,ground,80,32,2,1,1,3,1,4,4,7,1,6,5,6,1,1,2,3,0
+Pinsir,14,Fuego / Siniestro,normal,fighting,90,40,2,2,1,1,1,13,2,4,1,2,6,6,1,1,5,2,0
+Piplup,6,Agua,normal,water,83,29,1,15,1,2,6,2,2,4,7,3,2,3,1,1,3,1,0
+Plusle,3,Psíquico / Eléctrico,normal,electric,91,41,1,3,16,2,1,4,2,2,1,4,2,2,1,1,4,2,2
+Politoed,8,Agua,normal,water,98,38,1,13,1,1,9,10,2,7,2,4,1,1,1,1,4,1,1
+Poliwag,8,Agua,normal,water,74,29,1,13,1,1,8,2,2,4,1,4,1,1,1,1,2,1,1
+Poliwhirl,8,Agua,normal,water,89,33,1,13,1,1,9,8,2,7,1,4,1,1,1,1,3,1,1
+Poliwrath,8,Agua,normal,fighting,104,37,1,13,1,1,9,15,3,7,1,4,1,3,1,1,4,1,1
+Ponyta,14,Fuego / Siniestro,normal,fire,73,32,14,1,2,2,1,3,2,1,2,5,1,1,1,1,1,2,1
+Poochyena,5,Siniestro / Fantasma,normal,dark,84,36,4,2,2,1,2,3,3,4,1,2,1,1,4,1,14,2,1
+Porygon,2,Psíquico,normal,psychic,82,31,2,2,10,2,4,1,2,1,2,13,2,1,3,1,3,2,0
+Porygon2,2,Psíquico,normal,psychic,83,32,2,2,10,2,4,1,2,1,2,13,2,1,3,1,3,2,0
+Porygon-Z,2,Psíquico,normal,psychic,87,33,2,2,10,2,4,1,2,1,2,13,2,1,3,1,6,2,0
+Primeape,14,Fuego / Siniestro,normal,fighting,119,46,4,2,4,2,2,19,4,5,3,4,2,5,2,3,10,2,0
+Prinplup,6,Agua,normal,water,89,31,1,15,1,2,6,3,2,4,7,3,2,3,2,1,4,2,0
+Probopass,9,Roca,normal,rock,92,32,3,1,11,1,2,3,2,6,1,4,1,14,1,1,3,5,1
+Psyduck,8,Agua,normal,psychic,107,36,1,14,1,2,6,9,3,5,2,16,2,1,3,1,3,2,0
+Pumpkaboo,12,Planta,normal,grass,77,20,7,1,2,11,1,2,3,1,1,10,1,2,8,1,4,2,0
+Pumpkaboo-Large,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pumpkaboo-Small,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pumpkaboo-Super,4,Pocos movimientos,unknown,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pupitar,17,Roca / Lucha,normal,dark,83,30,2,2,1,1,1,5,2,6,1,2,1,9,3,3,10,4,0
+Purrloin,5,Siniestro / Fantasma,normal,dark,83,29,2,2,2,3,1,1,3,2,2,5,2,1,4,1,19,2,2
+Purugly,5,Siniestro / Fantasma,normal,dark,94,41,2,3,4,1,1,2,2,5,2,4,3,2,3,1,14,2,2
+Pyroar,14,Fuego / Siniestro,normal,fire,74,30,12,2,2,2,1,2,2,3,2,2,1,1,1,1,8,2,0
+Quagsire,15,Veneno / Agua,normal,water,106,37,1,11,2,1,8,10,5,9,1,4,2,7,2,1,3,2,0
+Quilava,14,Fuego / Siniestro,normal,fire,83,36,18,1,2,1,1,6,2,3,2,3,2,2,1,1,1,1,0
+Quilladin,12,Planta,normal,grass,99,30,2,1,2,13,1,11,4,5,2,4,2,6,3,2,6,5,0
+Qwilfish,8,Agua,normal,water,93,33,1,15,3,1,6,2,9,3,2,2,4,2,4,1,3,2,0
+Raichu,3,Psíquico / Eléctrico,normal,electric,120,58,1,3,18,2,1,9,2,3,2,5,2,2,1,1,5,2,3
+Raikou,0,Eléctrico,normal,electric,82,31,2,2,14,1,1,3,2,4,1,6,2,2,2,1,5,3,0
+Ralts,2,Psíquico,normal,psychic,110,37,4,2,6,3,3,1,2,2,1,25,2,1,7,1,7,1,5
+Rampardos,17,Roca / Lucha,normal,rock,106,38,6,4,5,1,4,8,2,6,1,3,1,10,3,4,7,3,0
+Rapidash,14,Fuego / Siniestro,normal,fire,80,36,14,1,2,2,1,3,3,2,2,5,2,1,1,1,1,2,1
+Raticate,14,Fuego / Siniestro,normal,dark,95,45,3,2,7,2,4,6,2,3,2,3,2,1,2,1,8,2,0
+Rattata,14,Fuego / Siniestro,normal,dark,88,38,3,2,7,2,4,6,2,3,2,3,2,1,2,1,8,2,0
+Regice,17,Roca / Lucha,normal,fighting,90,32,1,2,8,1,8,11,2,4,1,4,2,6,2,1,2,3,0
+Regigigas,17,Roca / Lucha,normal,fighting,84,28,3,2,6,1,4,9,2,5,2,3,1,8,2,1,4,3,0
+Regirock,17,Roca / Lucha,normal,fighting,89,31,3,1,8,1,2,11,2,6,1,3,1,11,2,1,2,3,0
+Registeel,17,Roca / Lucha,normal,fighting,92,32,2,2,9,1,2,11,2,4,2,4,1,8,3,1,3,5,0
+Relicanth,8,Agua,normal,water,85,29,1,14,1,1,5,2,2,8,2,5,1,10,1,1,1,1,0
+Remoraid,8,Agua,normal,water,84,27,5,15,3,3,6,1,4,3,2,4,3,3,1,1,2,1,0
+Reshiram,1,Dragón / Psíquico,normal,fire,81,20,12,1,1,2,2,3,2,2,4,8,1,5,3,8,5,2,0
+Reuniclus,2,Psíquico,normal,psychic,96,26,2,2,5,3,2,7,3,1,1,21,3,4,5,1,5,4,1
+Rhydon,17,Roca / Lucha,normal,fighting,128,43,7,5,6,1,7,12,3,9,1,3,3,11,4,5,5,3,0
+Rhyhorn,17,Roca / Lucha,normal,rock,103,36,6,3,5,1,5,5,3,9,1,3,2,11,3,3,4,3,0
+Rhyperior,17,Roca / Lucha,normal,fighting,131,43,7,5,6,1,7,12,3,9,1,3,3,12,4,5,5,5,0
+Riolu,13,Lucha,normal,fighting,96,31,3,2,3,1,2,21,3,5,1,5,2,3,2,2,6,4,0
+Roggenrola,9,Roca,normal,rock,62,22,1,1,1,1,1,2,2,7,1,3,1,10,2,1,1,5,0
+Roselia,11,Planta,normal,grass,87,30,2,3,1,23,1,1,7,3,1,3,3,1,3,1,1,1,2
+Roserade,11,Planta,normal,grass,92,33,2,3,1,24,1,1,8,3,1,3,3,1,3,1,1,1,2
+Rotom,5,Siniestro / Fantasma,normal,electric,69,19,3,2,12,1,1,1,2,2,1,7,2,1,7,1,6,1,0
+Rotom-Fan,5,Siniestro / Fantasma,normal,electric,70,19,3,2,12,1,1,1,2,2,2,7,2,1,7,1,6,1,0
+Rotom-Frost,5,Siniestro / Fantasma,normal,electric,70,19,3,2,12,1,2,1,2,2,1,7,2,1,7,1,6,1,0
+Rotom-Heat,5,Siniestro / Fantasma,normal,electric,70,19,4,2,12,1,1,1,2,2,1,7,2,1,7,1,6,1,0
+Rotom-Mow,5,Siniestro / Fantasma,normal,electric,70,19,3,2,12,2,1,1,2,2,1,7,2,1,7,1,6,1,0
+Rotom-Wash,5,Siniestro / Fantasma,normal,electric,70,19,3,3,12,1,1,1,2,2,1,7,2,1,7,1,6,1,0
+Rufflet,10,Volador,normal,flying,65,24,3,2,1,1,1,4,2,1,12,2,2,3,2,1,2,2,0
+Sableye,5,Siniestro / Fantasma,normal,dark,126,38,5,4,3,1,3,11,3,3,2,13,3,3,10,1,19,2,2
+Salamence,1,Dragón / Psíquico,normal,dragon,99,35,8,4,2,1,1,3,2,4,7,3,2,5,3,11,4,4,0
+Samurott,6,Agua,normal,water,87,32,1,16,1,2,5,5,2,2,3,2,4,1,1,2,6,2,0
+Sandile,14,Fuego / Siniestro,normal,dark,79,26,3,2,2,1,1,2,3,8,1,2,1,6,2,1,16,2,0
+Sandshrew,14,Fuego / Siniestro,normal,ground,90,36,2,1,1,1,1,7,4,11,2,2,3,6,2,1,6,4,0
+Sandslash,14,Fuego / Siniestro,normal,ground,94,38,2,1,1,1,1,8,4,11,2,2,3,7,2,1,6,4,0
+Sawk,13,Lucha,normal,fighting,76,24,3,2,2,2,2,16,3,4,1,3,1,4,1,2,5,1,0
+Sawsbuck,12,Planta,normal,grass,77,32,2,2,3,12,1,4,2,2,2,4,2,1,2,1,3,1,1
+Scatterbug,4,Pocos movimientos,bug,normal,6,1,0,0,0,1,0,0,1,0,0,0,3,0,0,0,0,0,0
+Sceptile,12,Planta,normal,grass,116,42,2,1,2,19,1,14,2,6,3,3,3,3,1,6,6,2,0
+Scizor,10,Volador,normal,fighting,93,36,2,2,1,1,1,8,3,1,8,4,8,2,2,1,6,7,0
+Scolipede,4,Pocos movimientos,normal,poison,76,24,2,2,1,2,1,3,9,5,1,3,9,4,1,1,4,4,0
+Scrafty,13,Lucha,normal,fighting,97,26,4,2,2,2,2,14,4,3,1,4,1,6,2,7,13,4,0
+Scraggy,13,Lucha,normal,fighting,93,24,4,2,2,2,2,14,4,3,1,4,1,6,2,6,12,4,0
+Scyther,10,Volador,normal,bug,82,35,2,2,1,1,1,7,2,1,7,4,8,1,2,1,5,2,0
+Seadra,8,Agua,normal,water,77,29,1,15,1,1,6,1,3,1,2,3,2,1,1,7,1,2,0
+Seaking,8,Agua,normal,water,77,29,1,13,1,1,6,1,3,5,3,4,4,1,1,1,2,1,0
+Sealeo,15,Veneno / Agua,normal,water,82,32,1,12,1,1,10,2,2,5,1,2,2,4,2,1,1,2,1
+Seedot,12,Planta,normal,grass,75,35,2,1,1,11,1,2,2,2,2,4,1,2,3,1,4,1,0
+Seel,15,Veneno / Agua,normal,water,78,35,1,12,1,1,8,1,3,2,1,2,2,1,2,1,3,2,0
+Seismitoad,8,Agua,normal,water,85,25,1,10,1,2,5,8,8,8,2,2,2,4,1,1,4,1,0
+Sentret,14,Fuego / Siniestro,normal,dark,99,43,4,6,5,3,3,6,2,3,1,4,3,2,3,1,7,2,1
+Serperior,11,Planta,normal,grass,90,34,2,2,1,19,1,2,4,1,2,6,1,1,1,5,6,2,0
+Servine,11,Planta,normal,grass,81,30,2,2,1,18,1,1,4,1,2,6,1,1,1,2,6,2,0
+Seviper,15,Veneno / Agua,normal,dark,91,32,3,3,1,2,2,3,12,5,1,2,4,1,2,2,14,2,0
+Sewaddle,4,Pocos movimientos,normal,grass,69,26,2,1,2,9,1,1,2,1,2,7,8,1,1,1,2,2,0
+Sharpedo,14,Fuego / Siniestro,normal,water,95,37,1,11,1,1,7,2,4,4,2,4,2,3,3,1,11,1,0
+Shaymin,12,Planta,normal,grass,75,31,2,1,1,15,1,1,2,3,4,5,1,1,2,1,1,1,2
+Shaymin-Sky,12,Planta,normal,grass,75,31,2,1,1,15,1,1,2,3,4,5,1,1,2,1,1,1,2
+Shedinja,4,Pocos movimientos,normal,bug,86,30,3,1,1,3,1,2,2,4,3,7,9,2,9,1,6,2,0
+Shelgon,1,Dragón / Psíquico,normal,dragon,80,31,7,3,1,1,1,3,2,2,2,3,2,4,2,10,4,2,0
+Shellder,7,Hielo,normal,water,73,29,1,13,1,1,9,1,2,2,1,3,2,2,1,1,2,2,0
+Shellos,15,Veneno / Agua,normal,water,73,26,1,9,1,1,6,2,5,6,1,4,3,2,2,1,2,1,0
+Shelmet,4,Pocos movimientos,normal,poison,63,23,1,2,1,4,1,2,7,3,1,4,7,1,2,1,2,1,0
+Shieldon,17,Roca / Lucha,normal,rock,84,26,5,2,5,1,3,3,2,7,1,3,1,11,2,1,3,8,0
+Shiftry,12,Planta,normal,grass,117,45,2,1,1,14,2,7,2,3,6,5,4,4,4,2,14,1,0
+Shinx,0,Eléctrico,normal,electric,75,28,2,2,14,1,2,2,2,2,1,3,3,1,1,1,7,2,1
+Shroomish,11,Planta,normal,grass,69,28,2,1,1,14,1,4,5,1,1,2,1,1,1,1,3,1,1
+Shuckle,17,Roca / Lucha,normal,rock,88,34,2,2,1,1,1,3,7,7,1,5,6,12,1,1,2,2,0
+Shuppet,5,Siniestro / Fantasma,normal,ghost,91,26,3,2,6,1,2,1,3,1,1,13,1,1,14,1,13,1,1
+Sigilyph,2,Psíquico,psychic,normal,87,18,2,2,4,3,3,1,2,1,11,25,2,3,2,1,3,3,1
+Silcoon,4,Pocos movimientos,normal,bug,8,3,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,1,0
+Simipour,6,Agua,normal,water,95,28,1,13,1,2,6,9,4,3,2,3,1,3,4,1,11,2,1
+Simisage,12,Planta,normal,grass,92,30,2,1,1,14,1,9,4,2,2,3,1,3,4,1,11,2,1
+Simisear,14,Fuego / Siniestro,normal,fire,91,29,12,1,1,3,1,9,4,2,2,4,1,3,4,1,11,2,1
+Skarmory,10,Volador,normal,flying,92,28,2,1,1,1,2,3,2,4,14,4,3,5,3,2,9,8,0
+Skiddo,12,Planta,normal,grass,68,24,2,3,2,13,1,4,2,3,1,3,1,3,1,1,2,2,0
+Skiploom,11,Planta,normal,grass,77,28,2,1,1,17,1,1,3,1,4,5,5,1,1,1,2,1,2
+Skitty,3,Psíquico / Eléctrico,normal,electric,97,48,2,3,7,3,4,2,2,4,1,6,1,2,2,1,5,2,2
+Skorupi,14,Fuego / Siniestro,normal,dark,89,28,2,3,1,1,1,3,10,4,2,3,9,2,3,1,14,2,0
+Skrelp,8,Agua,normal,water,66,17,1,11,3,1,4,1,11,1,2,2,1,1,2,3,2,2,1
+Skuntank,14,Fuego / Siniestro,normal,dark,91,34,6,2,1,1,2,2,9,3,2,2,2,1,4,1,16,2,1
+Slaking,14,Fuego / Siniestro,normal,fighting,115,45,6,3,5,2,5,14,3,4,2,3,2,4,4,1,10,1,1
+Slakoth,14,Fuego / Siniestro,normal,fighting,97,37,6,3,5,2,5,10,3,2,2,3,2,3,4,1,7,1,1
+Sliggoo,14,Fuego / Siniestro,normal,poison,59,18,2,5,3,2,3,2,6,1,1,2,2,2,2,5,1,2,0
+Slowbro,2,Psíquico,normal,psychic,121,41,5,11,2,2,7,9,3,6,2,18,3,1,4,1,3,3,0
+Slowking,2,Psíquico,normal,psychic,125,42,5,10,2,2,7,10,3,6,1,18,3,2,4,2,5,3,0
+Slowpoke,2,Psíquico,normal,psychic,101,37,5,10,2,2,5,1,3,6,1,18,2,1,4,1,1,2,0
+Slugma,15,Veneno / Agua,normal,fire,80,31,13,1,1,1,1,2,5,3,1,6,2,6,2,1,2,2,0
+Slurpuff,3,Psíquico / Eléctrico,normal,psychic,70,30,3,3,2,5,1,2,3,1,1,7,1,1,1,1,3,1,4
+Smeargle,4,Pocos movimientos,normal,unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smoochum,3,Psíquico / Eléctrico,normal,psychic,99,38,1,3,1,2,9,5,2,2,1,19,2,1,4,1,6,1,1
+Sneasel,14,Fuego / Siniestro,normal,dark,110,39,2,4,1,1,9,9,3,3,2,6,3,1,5,1,18,3,0
+Snivy,11,Planta,normal,grass,81,30,2,2,1,18,1,1,4,1,2,6,1,1,1,2,6,2,0
+Snorlax,15,Veneno / Agua,normal,fighting,121,49,6,5,6,3,5,10,4,5,1,5,1,6,4,2,5,3,1
+Snorunt,7,Hielo,normal,ice,67,28,1,3,1,1,10,1,2,2,1,3,1,2,4,1,5,1,0
+Snover,12,Planta,normal,grass,75,25,1,3,1,15,12,1,2,2,1,4,1,1,2,1,1,2,0
+Snubbull,3,Psíquico / Eléctrico,normal,fighting,109,40,8,3,8,2,3,12,3,5,1,3,1,1,3,1,11,1,3
+Solosis,2,Psíquico,normal,psychic,80,22,1,2,4,2,1,1,3,1,1,21,3,4,5,1,3,4,1
+Solrock,2,Psíquico,normal,psychic,99,33,9,1,2,3,1,1,2,4,2,19,2,11,2,1,2,4,0
+Spearow,10,Volador,normal,flying,77,32,3,2,1,1,1,1,2,3,13,3,2,1,3,2,5,2,0
+Spewpa,4,Pocos movimientos,normal,bug,10,3,0,0,1,1,0,0,1,0,0,0,3,0,0,0,0,1,0
+Spheal,15,Veneno / Agua,normal,water,81,31,1,12,1,1,10,2,2,5,1,2,2,4,2,1,1,2,1
+Spinarak,4,Pocos movimientos,normal,bug,81,27,2,1,2,3,1,1,8,2,2,5,14,1,3,1,7,1,0
+Spinda,3,Psíquico / Eléctrico,normal,psychic,115,52,3,3,4,1,3,11,2,3,1,15,1,4,3,1,7,1,0
+Spiritomb,5,Siniestro / Fantasma,normal,dark,82,24,3,3,2,1,2,1,2,1,1,10,3,2,10,1,15,1,0
+Spoink,2,Psíquico,normal,psychic,87,32,2,2,4,2,2,1,2,1,2,21,2,2,3,1,6,2,0
+Spritzee,3,Psíquico / Eléctrico,normal,psychic,71,28,2,2,3,3,1,1,2,1,1,10,1,1,1,1,2,3,8
+Squirtle,6,Agua,normal,water,103,37,1,20,1,1,8,9,2,4,1,4,1,3,1,2,3,5,0
+Stantler,2,Psíquico,normal,psychic,99,37,2,2,7,3,1,3,2,6,2,17,3,1,6,1,4,2,0
+Staraptor,10,Volador,normal,flying,79,32,3,2,1,1,1,5,2,3,13,3,2,1,3,2,3,2,0
+Staravia,10,Volador,normal,flying,75,30,3,2,1,1,1,4,2,3,12,3,2,1,3,2,3,2,0
+Starly,10,Volador,normal,flying,74,29,3,2,1,1,1,4,2,3,12,3,2,1,3,2,3,2,0
+Starmie,2,Psíquico,normal,psychic,92,31,1,12,4,2,6,1,2,1,1,16,2,3,3,2,1,3,1
+Staryu,8,Agua,normal,water,79,28,1,12,4,1,5,1,2,1,1,9,2,3,2,2,1,3,1
+Steelix,17,Roca / Lucha,normal,rock,99,39,3,2,3,1,2,2,2,9,1,2,1,12,2,5,6,7,0
+Steelix-Mega,17,Roca / Lucha,normal,rock,99,39,3,2,3,1,2,2,2,9,1,2,1,12,2,5,6,7,0
+Stoutland,0,Eléctrico,normal,electric,80,32,3,3,7,1,2,4,2,4,2,2,1,2,3,1,6,2,3
+Stunfisk,8,Agua,normal,electric,84,25,1,8,11,1,1,2,4,10,2,2,2,6,4,1,3,1,0
+Stunky,14,Fuego / Siniestro,normal,dark,87,31,6,2,1,1,2,2,8,3,2,2,2,1,4,1,16,2,1
+Sudowoodo,17,Roca / Lucha,normal,fighting,95,37,3,1,2,2,2,10,2,7,1,4,1,10,2,1,9,1,0
+Suicune,8,Agua,normal,water,86,27,2,12,1,1,10,2,2,4,4,6,2,2,3,1,4,3,0
+Sunflora,11,Planta,normal,grass,77,35,2,1,1,19,1,1,3,2,1,3,1,1,2,1,1,1,1
+Sunkern,11,Planta,normal,grass,70,32,2,1,1,16,1,1,3,2,1,3,1,1,2,1,1,1,0
+Surskit,8,Agua,normal,water,75,26,2,9,1,3,6,1,2,4,1,5,8,1,2,1,2,1,0
+Swablu,10,Volador,normal,flying,86,34,3,2,1,3,4,1,2,2,11,5,1,1,3,5,3,2,3
+Swadloon,4,Pocos movimientos,normal,grass,70,26,2,1,2,10,1,1,2,1,2,7,8,1,1,1,2,2,0
+Swalot,15,Veneno / Agua,normal,poison,94,36,3,3,3,5,3,5,14,4,1,4,2,2,5,1,2,1,0
+Swampert,6,Agua,normal,water,113,39,1,14,1,1,8,12,4,9,1,4,1,9,2,2,3,2,0
+Swanna,10,Volador,normal,flying,67,19,1,11,1,1,4,1,2,2,16,2,1,1,1,1,1,2,0
+Swellow,10,Volador,normal,flying,78,33,3,2,1,1,1,3,2,2,15,3,2,1,2,2,3,2,0
+Swinub,7,Hielo,normal,ice,80,28,1,2,1,1,12,3,2,10,1,5,1,6,2,1,2,1,1
+Swirlix,3,Psíquico / Eléctrico,normal,psychic,67,28,3,3,2,5,1,1,3,1,1,7,1,1,1,1,3,1,4
+Swoobat,2,Psíquico,normal,psychic,96,26,2,2,4,3,1,1,3,1,11,22,3,1,2,1,9,3,1
+Sylveon,3,Psíquico / Eléctrico,normal,psychic,94,49,2,2,1,1,1,2,2,4,1,10,1,1,3,1,3,2,8
+Taillow,10,Volador,normal,flying,75,30,3,2,1,1,1,3,2,2,15,3,2,1,2,2,3,2,0
+Talonflame,10,Volador,normal,fire,67,22,11,1,1,2,1,3,2,1,8,3,2,1,1,1,5,2,0
+Tangela,11,Planta,normal,grass,87,37,2,1,2,19,1,2,4,1,1,6,3,2,1,1,3,1,0
+Tangrowth,11,Planta,normal,grass,100,39,2,1,2,19,1,4,5,4,2,6,3,4,1,1,5,1,0
+Tauros,17,Roca / Lucha,normal,fire,86,37,5,5,5,2,4,2,2,3,1,4,1,5,2,2,3,3,0
+Teddiursa,14,Fuego / Siniestro,normal,fighting,107,46,3,2,2,2,2,12,3,5,2,2,2,4,3,1,11,2,3
+Tentacool,8,Agua,normal,water,86,30,1,14,1,2,7,1,10,1,1,5,2,1,3,1,4,1,1
+Tentacruel,8,Agua,normal,water,89,33,1,14,1,2,7,1,10,1,1,5,2,1,3,1,4,1,1
+Tepig,17,Roca / Lucha,normal,fire,76,27,13,1,2,3,1,3,3,3,1,3,1,4,2,1,4,4,0
+Terrakion,9,Roca,normal,fighting,71,28,1,1,1,1,1,8,3,4,2,5,2,8,1,1,2,2,0
+Throh,13,Lucha,normal,fighting,78,26,3,2,2,2,2,16,3,4,1,3,1,5,1,1,5,1,0
+Thundurus,0,Eléctrico,normal,electric,83,18,2,2,13,2,1,8,4,1,3,6,2,2,2,1,13,3,0
+Thundurus-Therian,0,Eléctrico,normal,electric,83,18,2,2,13,2,1,8,4,1,3,6,2,2,2,1,13,3,0
+Timburr,13,Lucha,normal,fighting,83,28,3,2,2,2,2,20,3,2,1,2,1,7,1,1,5,1,0
+Tirtouga,17,Roca / Lucha,normal,water,78,20,1,14,1,1,4,2,2,5,1,4,1,12,2,1,4,3,0
+Togekiss,3,Psíquico / Eléctrico,normal,psychic,131,55,6,3,3,4,1,8,2,2,12,15,3,3,3,2,3,2,4
+Togepi,3,Psíquico / Eléctrico,normal,psychic,107,51,5,3,3,3,1,4,2,2,3,15,2,3,2,1,3,1,3
+Togetic,3,Psíquico / Eléctrico,normal,psychic,127,54,6,3,3,4,1,7,2,2,10,15,3,3,3,2,3,2,4
+Torchic,14,Fuego / Siniestro,normal,fire,89,38,13,1,1,1,1,7,2,4,6,3,1,3,3,1,3,1,0
+Torkoal,17,Roca / Lucha,normal,fire,87,33,15,2,1,2,1,3,5,6,1,3,1,6,2,1,1,4,0
+Tornadus,10,Volador,normal,dark,78,18,3,2,1,2,2,8,4,1,10,6,2,2,2,1,12,2,0
+Tornadus-Therian,10,Volador,normal,dark,78,18,3,2,1,2,2,8,4,1,10,6,2,2,2,1,12,2,0
+Torterra,12,Planta,normal,grass,97,37,2,2,1,18,1,3,2,6,1,5,1,8,2,2,3,3,0
+Totodile,6,Agua,normal,water,100,35,1,15,1,1,7,9,2,4,2,2,1,4,3,3,7,3,0
+Toxicroak,13,Lucha,normal,fighting,111,32,2,2,2,1,3,17,9,6,2,4,3,4,4,2,16,2,0
+Tranquill,10,Volador,normal,flying,61,24,3,2,1,1,1,2,2,1,11,3,2,1,1,1,3,2,0
+Trapinch,14,Fuego / Siniestro,normal,ground,70,27,2,1,1,3,1,3,2,10,2,2,5,4,1,1,4,1,0
+Treecko,12,Planta,normal,grass,98,37,2,1,2,17,1,12,2,4,3,3,2,3,1,2,4,2,0
+Trevenant,12,Planta,normal,grass,90,24,3,1,1,12,1,5,4,4,1,12,2,2,10,1,6,1,0
+Tropius,12,Planta,normal,grass,91,37,2,1,1,15,1,2,2,4,9,2,3,1,3,5,1,2,0
+Trubbish,15,Veneno / Agua,normal,poison,68,22,2,2,1,3,2,2,12,4,1,3,2,3,3,1,4,1,0
+Turtwig,12,Planta,normal,grass,82,33,2,2,1,16,1,3,2,4,1,5,1,3,2,1,3,2,0
+Tympole,8,Agua,normal,water,60,22,1,10,1,1,4,1,4,5,2,2,2,1,1,1,1,1,0
+Tynamo,0,Eléctrico,electric,normal,5,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Typhlosion,14,Fuego / Siniestro,normal,fire,104,41,19,1,3,2,1,12,2,5,2,3,2,4,2,1,2,2,0
+Tyranitar,17,Roca / Lucha,normal,dark,127,38,7,6,7,1,6,11,2,6,2,2,2,9,5,6,13,4,0
+Tyrantrum,17,Roca / Lucha,normal,rock,80,25,3,1,2,1,2,4,3,5,2,3,1,9,2,7,5,4,1
+Tyrogue,13,Lucha,normal,fighting,72,34,2,2,1,1,1,11,2,4,1,3,1,2,1,1,3,2,0
+Tyrunt,17,Roca / Lucha,normal,rock,77,23,3,1,2,1,2,4,3,5,2,3,1,8,2,7,5,4,1
+Umbreon,3,Psíquico / Eléctrico,normal,dark,102,50,2,2,1,1,1,2,2,4,1,8,1,1,6,1,14,2,3
+Unfezant,10,Volador,normal,flying,64,27,3,2,1,1,1,2,2,1,11,3,2,1,1,1,3,2,0
+Unown,4,Pocos movimientos,fire,water,16,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Ursaring,14,Fuego / Siniestro,normal,fighting,118,51,3,2,2,2,3,15,3,5,2,2,2,6,3,1,11,2,3
+Uxie,2,Psíquico,normal,psychic,93,26,3,3,7,5,2,2,2,2,2,22,3,3,2,1,5,2,1
+Vanillish,7,Hielo,normal,ice,61,17,1,3,2,1,12,1,3,1,1,6,2,1,2,1,2,5,0
+Vanillite,7,Hielo,normal,ice,61,17,1,3,2,1,12,1,3,1,1,6,2,1,2,1,2,5,0
+Vanilluxe,7,Hielo,normal,ice,65,20,1,3,2,1,13,1,3,1,1,6,2,1,2,1,2,5,0
+Vaporeon,3,Psíquico / Eléctrico,normal,water,101,47,2,14,1,1,7,3,3,4,1,4,2,1,3,1,3,2,2
+Venipede,4,Pocos movimientos,normal,poison,58,18,2,1,1,2,1,2,8,2,1,3,7,2,1,1,3,3,0
+Venomoth,4,Pocos movimientos,normal,bug,86,30,2,1,1,6,1,1,7,1,8,8,12,1,2,2,2,1,0
+Venonat,4,Pocos movimientos,normal,psychic,69,27,2,1,1,5,1,1,7,1,1,8,8,1,1,1,2,1,0
+Venusaur,11,Planta,normal,grass,100,43,2,1,1,23,1,2,6,4,1,4,3,1,2,2,2,1,1
+Vespiquen,4,Pocos movimientos,normal,bug,80,25,2,2,1,1,1,1,5,2,9,2,15,2,4,1,6,1,0
+Vibrava,1,Dragón / Psíquico,normal,ground,89,31,3,1,1,3,1,3,2,10,7,2,7,4,2,6,4,2,0
+Victini,2,Psíquico,normal,fire,99,26,17,1,10,4,2,7,2,1,2,14,3,1,2,1,4,1,1
+Victreebel,11,Planta,normal,grass,91,39,2,1,1,19,1,1,10,1,1,3,4,1,1,1,4,1,0
+Vigoroth,14,Fuego / Siniestro,normal,fighting,109,42,6,3,5,2,5,14,3,4,2,3,2,3,4,1,8,1,1
+Vileplume,11,Planta,normal,grass,82,32,2,1,1,20,1,2,7,1,1,2,2,1,1,1,2,1,4
+Virizion,12,Planta,normal,grass,74,30,2,1,1,10,1,8,2,1,3,6,2,2,1,1,2,1,0
+Vivillon,4,Pocos movimientos,normal,bug,75,23,2,2,2,7,1,1,3,1,7,7,11,1,1,1,2,2,1
+Volbeat,3,Psíquico / Eléctrico,normal,bug,92,31,2,3,7,3,2,7,2,2,6,5,9,1,4,1,3,1,3
+Volcanion,17,Roca / Lucha,normal,fire,71,21,10,5,1,2,3,5,4,4,1,2,1,5,1,1,2,3,0
+Volcarona,4,Pocos movimientos,normal,fire,81,23,14,1,3,3,1,1,3,1,8,7,11,1,1,1,1,1,0
+Voltorb,0,Eléctrico,normal,electric,67,24,1,2,14,1,1,1,2,1,1,5,2,2,1,1,6,2,0
+Vullaby,10,Volador,normal,dark,75,22,4,2,1,1,1,2,2,1,11,2,2,2,2,1,16,3,0
+Vulpix,5,Siniestro / Fantasma,normal,fire,83,32,14,1,1,2,1,1,2,2,1,8,1,1,6,1,5,2,2
+Wailmer,8,Agua,normal,water,80,30,1,14,1,1,7,2,3,4,2,4,1,3,3,1,1,2,0
+Wailord,8,Agua,normal,water,84,33,1,14,1,1,7,2,3,4,2,4,1,3,3,1,1,3,0
+Walrein,15,Veneno / Agua,normal,water,90,35,1,12,1,1,12,2,2,5,1,2,3,4,2,1,2,3,1
+Wartortle,6,Agua,normal,water,103,37,1,20,1,1,8,9,2,4,1,4,1,3,1,2,3,5,0
+Watchog,14,Fuego / Siniestro,normal,fighting,94,38,4,3,6,3,2,8,3,4,1,6,2,1,3,1,7,2,0
+Weavile,14,Fuego / Siniestro,normal,dark,117,41,2,4,1,1,9,11,3,3,2,6,3,1,5,1,21,3,0
+Weedle,4,Pocos movimientos,bug,electric,4,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+Weepinbell,11,Planta,normal,grass,82,33,2,1,1,16,1,1,10,1,1,3,4,1,1,1,4,1,0
+Weezing,15,Veneno / Agua,normal,poison,85,31,6,2,4,1,2,1,11,1,1,4,2,2,6,1,8,2,0
+Whimsicott,11,Planta,normal,grass,81,26,2,1,1,15,1,1,3,1,4,6,2,1,2,1,9,1,4
+Whirlipede,4,Pocos movimientos,normal,poison,59,18,2,1,1,2,1,2,9,2,1,3,7,2,1,1,3,3,0
+Whiscash,8,Agua,normal,water,80,26,1,13,2,1,5,2,2,10,2,5,1,5,1,2,1,1,0
+Whismur,3,Psíquico / Eléctrico,normal,fire,87,40,6,3,3,2,5,6,2,2,1,5,1,2,3,1,3,1,1
+Wigglytuff,3,Psíquico / Eléctrico,normal,psychic,127,51,6,3,8,3,5,10,2,3,2,11,1,3,3,1,7,2,6
+Wingull,10,Volador,normal,flying,78,24,1,9,2,1,6,1,2,2,13,3,2,2,2,2,4,2,0
+Wobbuffet,4,Pocos movimientos,normal,fighting,8,4,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+Woobat,2,Psíquico,normal,psychic,93,24,2,2,4,3,1,1,3,1,10,22,3,1,2,1,9,3,1
+Wooper,15,Veneno / Agua,normal,water,91,32,1,11,2,1,8,5,5,9,1,4,2,4,2,1,1,2,0
+Wormadam,11,Planta,normal,grass,71,26,2,2,2,11,1,1,3,1,1,7,6,1,2,1,3,1,0
+Wormadam-Sandy,4,Pocos movimientos,normal,ground,71,26,2,2,2,1,1,1,3,7,1,7,6,5,2,1,3,1,0
+Wormadam-Trash,4,Pocos movimientos,normal,psychic,69,25,2,2,3,1,1,1,4,1,1,7,6,2,2,1,3,7,0
+Wurmple,4,Pocos movimientos,normal,bug,6,2,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+Wynaut,4,Pocos movimientos,normal,fighting,8,4,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+Xatu,2,Psíquico,normal,psychic,106,32,3,2,2,4,2,1,2,1,12,24,4,1,6,2,5,2,1
+Yamask,5,Siniestro / Fantasma,normal,psychic,83,22,2,2,2,2,2,1,3,1,1,18,2,1,11,1,10,2,0
+Yanma,10,Volador,normal,flying,77,30,2,1,1,3,1,3,2,1,8,5,8,2,3,1,4,2,0
+Yanmega,10,Volador,normal,bug,84,34,2,1,1,3,1,3,2,2,8,5,9,2,3,1,5,2,0
+Yveltal,10,Volador,normal,flying,72,19,3,2,1,1,1,2,2,1,11,5,2,2,4,3,11,2,0
+Zangoose,14,Fuego / Siniestro,normal,fighting,119,45,6,3,6,3,5,16,3,3,2,2,3,4,4,1,10,3,0
+Zapdos,10,Volador,normal,electric,79,22,3,2,12,1,1,3,2,2,12,5,3,3,2,2,1,3,0
+Zebstrika,0,Eléctrico,normal,electric,68,26,3,2,13,1,1,3,2,2,2,4,2,1,1,1,3,1,0
+Zekrom,1,Dragón / Psíquico,normal,electric,84,21,1,2,13,1,2,3,2,2,4,7,2,5,3,8,5,3,0
+Zigzagoon,3,Psíquico / Eléctrico,normal,electric,94,43,2,5,6,3,4,2,3,5,1,3,3,2,2,1,5,2,2
+Zoroark,5,Siniestro / Fantasma,normal,dark,92,29,4,2,1,2,1,7,3,2,3,7,2,1,4,1,22,1,0
+Zorua,5,Siniestro / Fantasma,normal,dark,82,27,3,2,1,2,1,3,2,2,3,7,2,1,3,1,21,1,0
+Zubat,10,Volador,normal,flying,85,25,3,2,1,2,2,2,6,1,13,4,3,1,6,2,10,2,0
+Zweilous,1,Dragón / Psíquico,normal,dragon,75,27,4,3,4,1,2,3,2,2,1,3,1,2,3,8,8,1,0
+Zygarde,1,Dragón / Psíquico,normal,dragon,70,23,2,1,2,2,2,5,4,6,1,3,1,4,2,7,3,2,0
