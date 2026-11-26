@@ -6,7 +6,10 @@ base_numeros = datasets.load_digits()
 
 # Carpeta con tus dibujos. Cada archivo se llama  <numero_real>_<n>.png
 # Ejemplo: 0_1.png, 0_2.png, 5_1.png, 5_2.png ...
-CARPETA = "Data"
+# Se arma a partir de donde esta este archivo .py, asi funciona aunque
+# ejecutes el programa desde otra carpeta (por ejemplo desde VS Code)
+CARPETA_PROYECTO = os.path.dirname(os.path.abspath(__file__))
+CARPETA = os.path.join(CARPETA_PROYECTO, "Data")
 
 
 def medir_similitud(img_entrada, img_base):
@@ -85,14 +88,27 @@ def crear_matriz_ceros(filas, columnas):
 reales = []
 predichos = []
 
+if not os.path.isdir(CARPETA):
+    print("No existe la carpeta:", CARPETA)
+    print("Crea la carpeta Data al lado de este archivo y pon ahi tus fotos.")
+    exit()
+
 archivos = sorted(os.listdir(CARPETA))
 
 for nombre in archivos:
-    if not nombre.endswith(".png") and not nombre.endswith(".jpg"):
+    # .lower() para aceptar tambien .PNG, .JPG, .JPEG (como guardan los celulares)
+    extension = os.path.splitext(nombre)[1].lower()
+    if extension != ".png" and extension != ".jpg" and extension != ".jpeg":
         continue
 
-    numero_real = int(nombre[0])  # la etiqueta verdadera sale del nombre
-    matriz = obtener_matriz(CARPETA + "/" + nombre)
+    # La etiqueta verdadera sale del primer caracter del nombre
+    if not nombre[0].isdigit():
+        print("Se salta", nombre, "-> el nombre debe empezar con el numero real, ej: 5_1.png")
+        print()
+        continue
+    numero_real = int(nombre[0])
+
+    matriz = obtener_matriz(os.path.join(CARPETA, nombre))
     if matriz is None:
         continue
 
@@ -105,7 +121,10 @@ for nombre in archivos:
     print("Imagen:", nombre)
     print("   Numero real:", numero_real)
     print("   Targets de los 3 mas cercanos:", posibles)
-    print("   Distancias:", [round(float(d), 2) for d in distancias])
+    redondeadas = []
+    for d in distancias:
+        redondeadas.append(round(float(d), 2))
+    print("   Distancias:", redondeadas)
     # f) mensaje pedido
     print("   Soy la inteligencia artificial, y he detectado que el digito "
           "ingresado corresponde al numero", digito_final)
@@ -114,6 +133,10 @@ for nombre in archivos:
     else:
         print("   -> ERROR")
     print()
+
+if len(reales) == 0:
+    print("No se encontro ninguna imagen valida en", CARPETA)
+    exit()
 
 # ---------------------------------------------------------------
 # g) Matriz de confusion de 10 clases
@@ -138,7 +161,8 @@ for i in range(10):
 aciertos = 0
 for i in range(10):
     aciertos += confusion[i][i]
-print("Aciertos totales:", aciertos, "de", len(reales))
+print("Aciertos totales:", aciertos, "de", len(reales),
+      f"({aciertos / len(reales) * 100:.1f} %)")
 print()
 
 # ---------------------------------------------------------------
